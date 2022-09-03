@@ -43,3 +43,15 @@
 - [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code
 - [vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): Review and manage your GitHub pull requests directly in VS Code
 - [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
+
+
+## 02. Vim
+- [nerdtree](https://github.com/scrooloose/nerdtree): Project and file navigation  
+- [tagbar](https://github.com/majutsushi/tagbar): An easy way to browse the class and modules  
+- [vim-surround](https://github.com/tpope/vim-surround): matches parentheses, brackets, quotes, XML tags, and more  
+- [vim-commentary](https://github.com/tpope/vim-commentary): Comment/uncomment lines according to filetype  
+- [python-mode](https://github.com/python-mode/python-mode): Python support in vim  
+- [vim-fzf](https://github.com/junegunn/fzf.vim): fuzzy finder  
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): Fast, as-you-type, fuzzy-search code completion engine  
+- [ctrl-space](https://github.com/vim-ctrlspace/vim-ctrlspace): tabs,buffers,files management and fast fuzzy searching  
+- [syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking plugin  
