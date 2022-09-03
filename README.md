@@ -1,2 +1,5 @@
 # Awesome-ML-Toolbox
-Curated list of tools and technologies 
+
+## Visual Studio Code
+- [anaconda-extension-pack](https://marketplace.visualstudio.com/items?itemName=ms-python.anaconda-extension-pack): Set of extensions that enhance the experience of Anaconda customers using Visual Studio Code
+
