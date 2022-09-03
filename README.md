@@ -57,7 +57,14 @@
 - [ctrl-space](https://github.com/vim-ctrlspace/vim-ctrlspace): tabs,buffers,files management and fast fuzzy searching  
 - [syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking plugin  
 
-## 03. IDE
+## 03. Python Environment
+- [Virtualenv](https://docs.python.org/3/library/venv.html)  
+- [Conda](https://docs.conda.io/en/latest/)  
+- [Docker](https://www.docker.com/)  
+- [AWS Lambda](https://aws.amazon.com/lambda/)
+
+
+## 04. IDE
 - [Pycharm Professional Edition](https://www.jetbrains.com/pycharm/download) 
 - [VS Code](https://code.visualstudio.com/download)
 - [Vim](https://www.vim.org/download.php)
@@ -67,4 +74,4 @@
 - [Spyder](https://www.spyder-ide.org/)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-## 04. 
+## 05. 
