@@ -86,5 +86,14 @@
 - [mock](https://docs.python.org/3/library/unittest.mock.html)  
 - [nose](https://nose.readthedocs.io/en/latest/testing.html)
 
-## 07. 
+## 07. Database Managemeny System (DBMS) 
+- [MongoDB](https://www.mongodb.com/)  
+- [SQLite](https://www.sqlite.org/)  
+- [MySQL](https://www.mysql.com/)  
+- [PostgreSQL](https://www.postgresql.org/)  
+- [Oracle Database](https://www.oracle.com/database/)  
+- [Redis](https://redis.io/)  
+- [Cassandra](http://cassandra.apache.org/)  
+- [Elasticsearch](https://www.elastic.co/)  
+- [Neo4j](https://neo4j.com/)
 
