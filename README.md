@@ -74,4 +74,10 @@
 - [Spyder](https://www.spyder-ide.org/)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-## 05. 
+## 05. Web Frameworks
+- [Django](https://docs.djangoproject.com/en/2.2/)  
+- [Flask](https://flask.palletsprojects.com/en/master/)  
+- [Tornado](https://www.tornadoweb.org/en/stable/guide.html)  
+- [Falcon](https://falcon.readthedocs.io/en/stable/)
+
+
