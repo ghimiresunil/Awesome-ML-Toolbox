@@ -32,6 +32,7 @@
 - [python-extension-pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack): All in one package of popular Visual Studio Code extensions for Python
 - [rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets): Provide rainbow colors for the round brackets, the square brackets and the squiggly brackets.
 - [remote-ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh): Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): REST Client allows you to send HTTP request and view the response in Visual Studio Code directly
 - [rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap): Re-wraps comments and other text to a given line length.
 - [settings sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync): Sync settings of vscode using github gists
 - [shell-format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format): Code support for shellscript、Dockerfile、properties、gitignore、dotenv、hosts、jvmoptions... DocumentFormat
@@ -55,3 +56,15 @@
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): Fast, as-you-type, fuzzy-search code completion engine  
 - [ctrl-space](https://github.com/vim-ctrlspace/vim-ctrlspace): tabs,buffers,files management and fast fuzzy searching  
 - [syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking plugin  
+
+## 03. IDE
+- [Pycharm Professional Edition](https://www.jetbrains.com/pycharm/download) 
+- [VS Code](https://code.visualstudio.com/download)
+- [Vim](https://www.vim.org/download.php)
+- [Sublime Text](https://www.sublimetext.com/3)
+- [Atom](https://atom.io/)
+- [Emacs](https://www.gnu.org/software/emacs/download.html) 
+- [Spyder](https://www.spyder-ide.org/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+
+## 04. 
