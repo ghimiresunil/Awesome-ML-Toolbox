@@ -159,6 +159,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pdf2image](https://pypi.org/project/pdf2image/): A wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list.  
 - [pillow](https://pypi.org/project/Pillow/): Python Imaging Library (Fork)  
 - [pipenv](https://pypi.org/project/pipenv/): Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.  
+- [pipreq](https://pypi.org/project/pipreqs/): Generate pip `requirements.txt` file based on imports of any project. Looking for maintainers to move this project forward.
 - [plotly](https://pypi.org/project/plotly/): An open-source, interactive graphing library for Python  
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/): PyMuPDF is a Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit, which is maintained and developed by Artifex Software, Inc
