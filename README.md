@@ -130,6 +130,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [gensim](https://pypi.org/project/gensim/): Topic modelling, document indexing and similarity retrieval with large corpora.  
 - [gspread](https://github.com/burnash/gspread): Python library to interact with Google Sheets  
 - [gunicorn](https://pypi.org/project/gunicorn/): Production web server for Flask, Django apps  
+- [hugging face](https://huggingface.co/): Build, train and deploy state of the art models powered by the reference open source in machine learning
 - [hungabunga](https://github.com/ypeleg/HungaBunga): HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!  
 - [implicit](https://github.com/benfred/implicit): Fast Python Collaborative Filtering for Implicit Feedback Datasets  
 - [interpret](https://pypi.org/project/interpret/): Fit interpretable models. Explain blackbox machine learning.  
