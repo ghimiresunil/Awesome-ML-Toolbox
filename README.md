@@ -112,6 +112,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [beautifulsoup](https://pypi.org/project/beautifulsoup4/): Pull data out of HTML and XML files  
 - [bert-as-a-service](https://github.com/hanxiao/bert-as-service): Generate BERT Embeddings for production  
 - [black](https://github.com/psf/black): Opiniated code formatter for python code  
+- [bokeh](https://docs.bokeh.org/en/latest/): Bokeh is a Python library for creating interactive visualizations for modern web browsers
 - [boto/boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html): Control AWS service with pure python code  
 - [camelot](https://github.com/socialcopsdev/camelot): Extract tables from PDF files  
 - [collections](https://docs.python.org/3/library/collections.html): Specialized container datatypes  
