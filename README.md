@@ -124,6 +124,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [dlib](https://pypi.org/project/dlib/): A toolkit for making real world machine learning and data analysis applications in C++  
 - [docx2txt](https://pypi.org/project/docx2txt/): A pure python-based utility to extract text and images from docx files
 - [fastai](https://pypi.org/project/fastai/): fastai makes deep learning with PyTorch faster, more accurate, and easier  
+- [fasttext](https://fasttext.cc/): Library for efficient text classification and representation learning  
 - [finetune](https://github.com/IndicoDataSolutions/finetune): Scikit-learn style model finetuning for NLP  
 - [flask](https://palletsprojects.com/p/flask/): Lightweight WSGI web application framework  
 - [flask-restplus](https://pypi.org/project/flask-restplus/): Fully featured framework for fast, easy and documented API development with Flask  
