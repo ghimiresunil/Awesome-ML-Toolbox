@@ -167,7 +167,8 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/): PyMuPDF is a Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit, which is maintained and developed by Artifex Software, Inc
 - [pymongo](https://pypi.org/project/pymongo/): Python driver for MongoDB  
-- [pymysql](https://pypi.org/project/PyMySQL/): Pure Python MySQL Driver  
+- [pymysql](https://pypi.org/project/PyMySQL/): Pure Python MySQL Driver
+- [pyod](https://pyod.readthedocs.io/en/latest/): PyOD is the most comprehensive and scalable Python library for detecting outlying objects in multivariate data.
 - [pypdf2](https://pypi.org/project/PyPDF2/): PDF toolkit  
 - [pyspark](https://pypi.org/project/pyspark/): Apache Spark Python API  
 - [pytest](https://pypi.org/project/pytest/): pytest: simple powerful testing with Python  
