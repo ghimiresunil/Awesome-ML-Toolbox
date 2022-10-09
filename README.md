@@ -147,6 +147,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [libfm](http://www.libfm.org/): Factorization Machine Library  
 - [lightfm](https://github.com/lyst/lightfm): A Python implementation of LightFM, a hybrid recommendation algorithm.  
 - [lime](https://pypi.org/project/lime/): Local Interpretable Model-Agnostic Explanations for machine learning classifiers  
+- [magic-wormhole](https://pypi.org/project/magic-wormhole/):This package provides a library and a command-line tool named wormhole, which makes it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another
 - [matchzoo](https://matchzoo.readthedocs.io/en/master/): MatchZoo is a toolkit for text matching  
 - [matplotlib](https://pypi.org/project/matplotlib/): Matplotlib strives to produce publication quality 2D graphics  
 - [memory-profiler](https://pypi.org/project/memory-profiler/): A module for monitoring memory usage of a python program  
