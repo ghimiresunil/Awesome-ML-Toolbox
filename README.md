@@ -108,6 +108,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [time.time()](https://docs.python.org/3/library/time.html)
 
 ## 09. Python Libraries
+- [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
 - [argparse](https://docs.python.org/3/library/argparse.html): Write user-friendly command-line interfaces  
 - [beautifulsoup](https://pypi.org/project/beautifulsoup4/): Pull data out of HTML and XML files  
 - [bert-as-a-service](https://github.com/hanxiao/bert-as-service): Generate BERT Embeddings for production  
