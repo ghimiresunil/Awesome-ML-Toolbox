@@ -89,6 +89,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [nose](https://nose.readthedocs.io/en/latest/testing.html)
 
 ## 07. Database Managemeny System (DBMS) 
+- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 - [MongoDB](https://www.mongodb.com/)  
 - [SQLite](https://www.sqlite.org/)  
 - [MySQL](https://www.mysql.com/)  
