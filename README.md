@@ -185,6 +185,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [rasterio](https://pypi.org/project/rasterio/): Reads and writes GeoTIFF formats and provides a Python API based on N-D arrays  
 - [re](https://docs.python.org/3/library/re.html): Regular expression matching operations  
 - [requests](https://pypi.org/project/requests/): HTTP library for Python  
+- [schedule](https://pypi.org/project/schedule/): Python job scheduling for humans. Run Python functions (or any other callable) periodically using a friendly syntax
 - [scikit-image](https://scikit-image.org/): Collection of algorithms for image processing  
 - [scikit-learn](https://scikit-learn.org/stable/): Tools for data mining and data analysis and machine learning in Python  
 - [scikit-surprise](https://pypi.org/project/scikit-surprise/): Python RecommendatIon System Engine  
