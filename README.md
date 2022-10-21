@@ -117,6 +117,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [bokeh](https://docs.bokeh.org/en/latest/): Bokeh is a Python library for creating interactive visualizations for modern web browsers
 - [boto/boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html): Control AWS service with pure python code  
 - [camelot](https://github.com/socialcopsdev/camelot): Extract tables from PDF files  
+- [Celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html): Task queues are used as a mechanism to distribute work across threads or machines.
 - [collections](https://docs.python.org/3/library/collections.html): Specialized container datatypes  
 - [conda](https://docs.conda.io/en/latest/): Package, dependency and environment management  
 - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html):Launching parallel tasks
