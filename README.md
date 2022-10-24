@@ -127,6 +127,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [djongo](https://github.com/nesdis/djongo): Django and MongoDB database connector   
 - [dlib](https://pypi.org/project/dlib/): A toolkit for making real world machine learning and data analysis applications in C++  
 - [docx2txt](https://pypi.org/project/docx2txt/): A pure python-based utility to extract text and images from docx files
+- [Embedding projector](https://projector.tensorflow.org/):offers three commonly used methods of data dimensionality reduction, which allow easier visualization of complex data: PCA, t-SNE and custom linear projections
 - [fastai](https://pypi.org/project/fastai/): fastai makes deep learning with PyTorch faster, more accurate, and easier  
 - [fastapi](https://fastapi.tiangolo.com/): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [fasttext](https://fasttext.cc/): Library for efficient text classification and representation learning  
