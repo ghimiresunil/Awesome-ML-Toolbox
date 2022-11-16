@@ -121,6 +121,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [collections](https://docs.python.org/3/library/collections.html): Specialized container datatypes  
 - [conda](https://docs.conda.io/en/latest/): Package, dependency and environment management  
 - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html):Launching parallel tasks
+- [dabl](https://amueller.github.io/dabl/dev/): project tries to help make supervised machine learning more accessible for beginners, and reduce boiler plate for common tasks.
 - [datetime](https://docs.python.org/3/library/datetime.html): Supplies classes for manipulating dates and times  
 - [deepctr](https://pypi.org/project/deepctr/): Deep-learning based CTR models  
 - [django](https://www.djangoproject.com/): High-level Python Web framework  
