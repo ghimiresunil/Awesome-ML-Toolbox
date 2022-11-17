@@ -204,7 +204,8 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [sympy](https://www.sympy.org/): Python library for symbolic mathematics  
 - [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF  
 - [tensorflow](https://www.tensorflow.org/): Core open source library to develop and train ML models  
-- [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations  
+- [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations 
+- [Trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O
 - [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
 - [xgboost](https://xgboost.readthedocs.io/en/latest/index.html): Distributed gradient boosting library   
 - [xlearn](https://github.com/aksnzhy/xlearn): High performance, easy-to-use, and scalable machine learning package  
