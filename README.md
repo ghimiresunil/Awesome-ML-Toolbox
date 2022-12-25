@@ -207,6 +207,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations 
 - [Trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O
 - [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
+- [vectorhub](https://github.com/RelevanceAI/vectorhub): Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
 - [xgboost](https://xgboost.readthedocs.io/en/latest/index.html): Distributed gradient boosting library   
 - [xlearn](https://github.com/aksnzhy/xlearn): High performance, easy-to-use, and scalable machine learning package  
 - [xlrd](https://pypi.org/project/xlrd/): Extract data from Excel spreadsheets  
