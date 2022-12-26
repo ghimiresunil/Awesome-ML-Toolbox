@@ -155,6 +155,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [lime](https://pypi.org/project/lime/): Local Interpretable Model-Agnostic Explanations for machine learning classifiers 
 - [loguru](https://github.com/Delgan/loguru#readme): Loguru is a library which aims to bring enjoyable logging in Python.
 - [magic-wormhole](https://pypi.org/project/magic-wormhole/):This package provides a library and a command-line tool named wormhole, which makes it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another
+- [Manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos 
 - [matchzoo](https://matchzoo.readthedocs.io/en/master/): MatchZoo is a toolkit for text matching  
 - [matplotlib](https://pypi.org/project/matplotlib/): Matplotlib strives to produce publication quality 2D graphics  
 - [memory-profiler](https://pypi.org/project/memory-profiler/): A module for monitoring memory usage of a python program  
