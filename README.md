@@ -148,6 +148,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [json](https://docs.python.org/3/library/json.html): Read and write JSON files  
 - [jupyter](https://pypi.org/project/jupyter/): Jupyter notebooks  
 - [jupyterlab](https://pypi.org/project/jupyterlab/): An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture  
+- [kedro](https://github.com/kedro-org/kedro): A Python framework for creating reproducible, maintainable and modular data science code
 - [keras](https://pypi.org/project/Keras/): High-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.  
 - [libffm](https://github.com/ycjuan/libffm): A Library for Field-aware Factorization Machines  
 - [libfm](http://www.libfm.org/): Factorization Machine Library  
