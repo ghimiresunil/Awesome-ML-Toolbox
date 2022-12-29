@@ -110,7 +110,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [time.time()](https://docs.python.org/3/library/time.html)
 
 ## 09. API Platform
-- [PPostman](https://www.postman.com/)
+- [Postman](https://www.postman.com/)
 
 ## 10. Python Libraries
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
