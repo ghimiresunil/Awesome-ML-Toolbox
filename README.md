@@ -28,7 +28,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Visual Studio Code plugin that autocompletes filenames
 - [pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf): Display pdf file in VSCode
 - [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Code formattter for various languages
-- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance): https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance): A performant, feature-rich language server for Python in VS Code
 - [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python): Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
 - [python-extended-snippets](https://marketplace.visualstudio.com/items?itemName=tushortz.python-extended-snippets): Python Extended is a vscode snippet that makes it easy to write codes in python by providing completion options along with all arguments.
 - [python-extension-pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack): All in one package of popular Visual Studio Code extensions for Python
