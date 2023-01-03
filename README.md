@@ -111,6 +111,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 
 ## 09. API Platform
 - [Postman](https://www.postman.com/)
+- [insomnia](https://insomnia.rest/)
 
 ## 10. Python Libraries
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
