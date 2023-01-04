@@ -113,7 +113,10 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Postman](https://www.postman.com/)
 - [insomnia](https://insomnia.rest/)
 
-## 10. Python Libraries
+## 10. Drawing Tools
+- [Excalidraw](https://excalidraw.com/)
+
+## 11. Python Libraries
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
 - [argparse](https://docs.python.org/3/library/argparse.html): Write user-friendly command-line interfaces  
 - [beautifulsoup](https://pypi.org/project/beautifulsoup4/): Pull data out of HTML and XML files  
