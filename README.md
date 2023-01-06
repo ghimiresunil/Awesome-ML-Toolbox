@@ -176,6 +176,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [nltk](https://pypi.org/project/nltk/): Natural Language Toolkit  
 - [numpy](https://pypi.org/project/numpy/): NumPy is the fundamental package for array computing with Python.  
 - [opencv](https://pypi.org/project/opencv-python/): Wrapper package for OpenCV python bindings.  
+- [pandasql](https://pypi.org/project/pandasql/): Allows you to query pandas DataFrames using SQL syntax
 - [pandera](https://pandera.readthedocs.io/en/stable/): A Statistical Data Testing Toolkit
 - [pandarallel](https://pypi.org/project/pandarallel/): An easy to use library to speed up computation (by parallelizing on multi CPUs) with pandas.  
 - [pandas](https://pypi.org/project/pandas/): Powerful data structures for data analysis, time series, and statistics  
