@@ -175,6 +175,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [nlopt](https://pypi.org/project/nlopt/): Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization  
 - [nltk](https://pypi.org/project/nltk/): Natural Language Toolkit  
 - [numpy](https://pypi.org/project/numpy/): NumPy is the fundamental package for array computing with Python.  
+- [openai](https://openai.com/) : Provides convenient access to the OpenAI API from applications written in the Python language
 - [opencv](https://pypi.org/project/opencv-python/): Wrapper package for OpenCV python bindings.  
 - [pandasql](https://pypi.org/project/pandasql/): Allows you to query pandas DataFrames using SQL syntax
 - [pandera](https://pandera.readthedocs.io/en/stable/): A Statistical Data Testing Toolkit
