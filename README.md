@@ -116,6 +116,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 
 ## 10. Drawing Tools
 - [Excalidraw](https://excalidraw.com/)
+- [draw.io](https://app.diagrams.net/)
 - [Canva](https://www.canva.com/)
 
 ## 11. Python Libraries
