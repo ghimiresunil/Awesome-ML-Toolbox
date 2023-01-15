@@ -206,7 +206,8 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pytorch](https://pytorch.org/): Open source machine learning framework  
 - [pytorch-transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch  
 - [pyyaml](https://pypi.org/project/PyYAML/): YAML 1.1 parser  
-- [rasterio](https://pypi.org/project/rasterio/): Reads and writes GeoTIFF formats and provides a Python API based on N-D arrays  
+- [rasterio](https://pypi.org/project/rasterio/): Reads and writes GeoTIFF formats and provides a Python API based on N-D arrays
+- [RapidAPI](https://rapidapi.com/):To discover and connect to thousands of APIs
 - [re](https://docs.python.org/3/library/re.html): Regular expression matching operations  
 - [requests](https://pypi.org/project/requests/): HTTP library for Python  
 - [schedule](https://pypi.org/project/schedule/): Python job scheduling for humans. Run Python functions (or any other callable) periodically using a friendly syntax
