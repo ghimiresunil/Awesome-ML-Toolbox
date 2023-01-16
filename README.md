@@ -172,6 +172,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [matchzoo](https://matchzoo.readthedocs.io/en/master/): MatchZoo is a toolkit for text matching  
 - [matplotlib](https://pypi.org/project/matplotlib/): Matplotlib strives to produce publication quality 2D graphics  
 - [memory-profiler](https://pypi.org/project/memory-profiler/): A module for monitoring memory usage of a python program  
+- [Modin](https://modin.readthedocs.io/en/stable/) : Provide an effortless way to speed up your pandas notebooks, scripts, and libraries.
 - [mongoengine](https://pypi.org/project/mongoengine/): MongoEngine is a Python Object-Document Mapper for working with MongoDB.  
 - [more_itertools](https://pypi.org/project/more-itertools/): More routines for operating on iterables, beyond itertools  
 - [multiprocessing-logging](https://pypi.org/project/multiprocessing-logging/): Logger for multiprocessing applications  
