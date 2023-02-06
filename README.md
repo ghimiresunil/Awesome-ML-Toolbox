@@ -133,6 +133,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [conda](https://docs.conda.io/en/latest/): Package, dependency and environment management  
 - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html):Launching parallel tasks
 - [dabl](https://amueller.github.io/dabl/dev/): project tries to help make supervised machine learning more accessible for beginners, and reduce boiler plate for common tasks.
+- [dask](https://www.dask.org/): Scale the Python tools you love
 - [datetime](https://docs.python.org/3/library/datetime.html): Supplies classes for manipulating dates and times  
 - [deepctr](https://pypi.org/project/deepctr/): Deep-learning based CTR models  
 - [django](https://www.djangoproject.com/): High-level Python Web framework  
