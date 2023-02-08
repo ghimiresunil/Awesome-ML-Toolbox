@@ -109,7 +109,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [objgraph](https://mg.pov.lt/objgraph/)  
 - [pyinstrument](https://github.com/joerick/pyinstrument)  
 - [time.time()](https://docs.python.org/3/library/time.html)
-
+- [time.perf_counter()](https://docs.python.org/3/library/time.html)
 ## 09. API Platform
 - [Postman](https://www.postman.com/)
 - [insomnia](https://insomnia.rest/)
