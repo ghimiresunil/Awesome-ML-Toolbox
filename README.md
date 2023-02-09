@@ -110,6 +110,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pyinstrument](https://github.com/joerick/pyinstrument)  
 - [time.time()](https://docs.python.org/3/library/time.html)
 - [time.perf_counter()](https://docs.python.org/3/library/time.html)
+
 ## 09. API Platform
 - [Postman](https://www.postman.com/)
 - [insomnia](https://insomnia.rest/)
@@ -231,6 +232,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [tensorflow](https://www.tensorflow.org/): Core open source library to develop and train ML models  
 - [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56677&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) : A Neural Network Playground 
 - [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations 
+- [tracemalloc](https://docs.python.org/3/library/tracemalloc.html) : Trace memory allocations
 - [trafilatura](https://trafilatura.readthedocs.io/en/latest/): A Python package & command-line tool to gather text on the Web
 - [Trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O
 - [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
