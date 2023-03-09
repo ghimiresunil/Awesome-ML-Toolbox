@@ -198,6 +198,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [plotly](https://pypi.org/project/plotly/): An open-source, interactive graphing library for Python  
 - [pre-commit](https://pypi.org/project/pre-commit/): A framework for managing and maintaining multi-language pre-commit hooks.
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
+- [pyaudio](https://pypi.org/project/PyAudio/): Cross-platform audio I/O with PortAudio
 - [pydash](https://pydash.readthedocs.io/en/latest/): The kitchen sink of Python utility libraries for doing "stuff" in a functional way	
 - [Pipe](https://pypi.org/project/pipe/): Write clean python Code
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/): PyMuPDF is a Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit, which is maintained and developed by Artifex Software, Inc
