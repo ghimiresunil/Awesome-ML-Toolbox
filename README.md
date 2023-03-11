@@ -208,11 +208,12 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pyodbc](https://pypi.org/project/pyodbc/): pyodbc is an open source Python module that makes accessing ODBC databases simple
 - [pypdf2](https://pypi.org/project/PyPDF2/): PDF toolkit  
 - [pyspark](https://pypi.org/project/pyspark/): Apache Spark Python API  
+- [pyttsx3](https://pypi.org/project/pyttsx3/): text-to-speech conversion library in Python
 - [pytest](https://pypi.org/project/pytest/): pytest: simple powerful testing with Python  
 - [python-dotenv](https://pypi.org/project/python-dotenv/): Add .env support to your django/flask apps in development and deployments  
 - [pytorch](https://pytorch.org/): Open source machine learning framework  
 - [pytorch-transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch  
-- [pyyaml](https://pypi.org/project/PyYAML/): YAML 1.1 parser  
+- [pyyaml](https://pypi.org/project/PyYAML/): YAML 1.1 parser 
 - [rasterio](https://pypi.org/project/rasterio/): Reads and writes GeoTIFF formats and provides a Python API based on N-D arrays
 - [RapidAPI](https://rapidapi.com/):To discover and connect to thousands of APIs
 - [Ray](https://www.ray.io/): Effortlessly scale your most complex workloads
