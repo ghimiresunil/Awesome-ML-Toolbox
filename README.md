@@ -197,6 +197,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pipreq](https://pypi.org/project/pipreqs/): Generate pip `requirements.txt` file based on imports of any project. Looking for maintainers to move this project forward.
 - [plotly](https://pypi.org/project/plotly/): An open-source, interactive graphing library for Python  
 - [pre-commit](https://pypi.org/project/pre-commit/): A framework for managing and maintaining multi-language pre-commit hooks.
+- [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
 - [pyaudio](https://pypi.org/project/PyAudio/): Cross-platform audio I/O with PortAudio
 - [pydash](https://pydash.readthedocs.io/en/latest/): The kitchen sink of Python utility libraries for doing "stuff" in a functional way	
@@ -212,7 +213,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pytest](https://pypi.org/project/pytest/): pytest: simple powerful testing with Python  
 - [python-dotenv](https://pypi.org/project/python-dotenv/): Add .env support to your django/flask apps in development and deployments  
 - [pytorch](https://pytorch.org/): Open source machine learning framework  
-- [pytorch-transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch  
+- [pytorch-transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch 
 - [pyyaml](https://pypi.org/project/PyYAML/): YAML 1.1 parser 
 - [rasterio](https://pypi.org/project/rasterio/): Reads and writes GeoTIFF formats and provides a Python API based on N-D arrays
 - [RapidAPI](https://rapidapi.com/):To discover and connect to thousands of APIs
