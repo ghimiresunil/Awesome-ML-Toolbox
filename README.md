@@ -133,6 +133,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [collections](https://docs.python.org/3/library/collections.html): Specialized container datatypes  
 - [conda](https://docs.conda.io/en/latest/): Package, dependency and environment management  
 - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html):Launching parallel tasks
+- [chime](https://github.com/MaxHalford/chime): Python sound notifications made easy.
 - [dabl](https://amueller.github.io/dabl/dev/): project tries to help make supervised machine learning more accessible for beginners, and reduce boiler plate for common tasks.
 - [dask](https://www.dask.org/): Scale the Python tools you love
 - [datetime](https://docs.python.org/3/library/datetime.html): Supplies classes for manipulating dates and times  
