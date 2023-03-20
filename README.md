@@ -166,6 +166,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [jupyterlab](https://pypi.org/project/jupyterlab/): An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture  
 - [kedro](https://github.com/kedro-org/kedro): A Python framework for creating reproducible, maintainable and modular data science code
 - [keras](https://pypi.org/project/Keras/): High-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.  
+- [langchain(https://langchain.readthedocs.io/en/latest/): provides a standard interface for chains, lots of integrations with other tools, and end-to-end chains for common applications
 - [libffm](https://github.com/ycjuan/libffm): A Library for Field-aware Factorization Machines  
 - [libfm](http://www.libfm.org/): Factorization Machine Library  
 - [lightfm](https://github.com/lyst/lightfm): A Python implementation of LightFM, a hybrid recommendation algorithm.  
