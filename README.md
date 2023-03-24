@@ -239,6 +239,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF  
 - [tensorflow](https://www.tensorflow.org/): Core open source library to develop and train ML models  
 - [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56677&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) : A Neural Network Playground 
+- [txtai](https://github.com/neuml/txtai): Build AI-powered semantic search applications
 - [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations 
 - [tracemalloc](https://docs.python.org/3/library/tracemalloc.html) : Trace memory allocations
 - [trafilatura](https://trafilatura.readthedocs.io/en/latest/): A Python package & command-line tool to gather text on the Web
