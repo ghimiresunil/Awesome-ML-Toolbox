@@ -143,6 +143,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [djongo](https://github.com/nesdis/djongo): Django and MongoDB database connector   
 - [dlib](https://pypi.org/project/dlib/): A toolkit for making real world machine learning and data analysis applications in C++  
 - [docx2txt](https://pypi.org/project/docx2txt/): A pure python-based utility to extract text and images from docx files
+- [Dynaconf](https://www.dynaconf.com/): a dynamic configuration for Python applications
 - [Embedding projector](https://projector.tensorflow.org/):offers three commonly used methods of data dimensionality reduction, which allow easier visualization of complex data: PCA, t-SNE and custom linear projections
 - [FAISS](https://github.com/facebookresearch/faiss):A library for efficient similarity search and clustering of dense vectors
 - [fastai](https://pypi.org/project/fastai/): fastai makes deep learning with PyTorch faster, more accurate, and easier  
