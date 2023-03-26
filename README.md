@@ -8,7 +8,6 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [autocomplete-shell](https://github.com/TrumanDu/autocomplate-shell): Autocompletion for bash script in vscode
 - [autodocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring): Quickly generate docstrings for python functions
 - [better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Color code comments based on TODO/Alert/Warning etc.
-- [BLOOM](https://bigscience.huggingface.co/blog/bloom): The World’s Largest Open Multilingual Language Model
 - [bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks): Bookmarks lines in code and jump to them 
 - [code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker): Catch common spelling errors in codebase 
 - [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker): Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
@@ -127,6 +126,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [beautifulsoup](https://pypi.org/project/beautifulsoup4/): Pull data out of HTML and XML files  
 - [bert-as-a-service](https://github.com/hanxiao/bert-as-service): Generate BERT Embeddings for production  
 - [black](https://github.com/psf/black): Opiniated code formatter for python code  
+- [BLOOM](https://bigscience.huggingface.co/blog/bloom): The World’s Largest Open Multilingual Language Model
 - [bokeh](https://docs.bokeh.org/en/latest/): Bokeh is a Python library for creating interactive visualizations for modern web browsers
 - [boto/boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html): Control AWS service with pure python code  
 - [camelot](https://github.com/socialcopsdev/camelot): Extract tables from PDF files  
