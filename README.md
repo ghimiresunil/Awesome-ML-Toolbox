@@ -18,7 +18,6 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore): Auto create .gitignore files for various languages
 - [gitlens](https://github.com/eamodio/vscode-gitlens): Supercharge the Git capabilities built into Visual Studio Code
 - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): Provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
-- [gpt3-simple-primer](https://pypi.org/project/gpt3-simple-primer/) : Simple GPT-3 primer using openai.
 - [guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides): Guides is simply an extension that add various indentation guide lines
 - [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite): AI code completions for all languages, intellisense, code snippets, code signatures, and cursor-following documentation for VS Code
 - [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launch a development local Server with live reload feature for static & dynamic pages
@@ -155,6 +154,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [fugue](https://fugue-tutorials.readthedocs.io/tutorials/fugue_sql/syntax.html): SQL for Pandas, Spark, and Dask DataFrames
 - [gdal](https://pypi.org/project/GDAL/): GDAL: Geospatial Data Abstraction Library  
 - [gensim](https://pypi.org/project/gensim/): Topic modelling, document indexing and similarity retrieval with large corpora.  
+- [gpt3-simple-primer](https://pypi.org/project/gpt3-simple-primer/) : Simple GPT-3 primer using openai.
 - [gspread](https://github.com/burnash/gspread): Python library to interact with Google Sheets  
 - [gunicorn](https://pypi.org/project/gunicorn/): Production web server for Flask, Django apps  
 - [hugging face](https://huggingface.co/): Build, train and deploy state of the art models powered by the reference open source in machine learning
