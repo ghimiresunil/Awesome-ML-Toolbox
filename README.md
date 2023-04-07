@@ -118,6 +118,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Excalidraw](https://excalidraw.com/)
 - [draw.io](https://app.diagrams.net/)
 - [Canva](https://www.canva.com/)
+- [mermaid](https://mermaid.js.org/)
 
 ## 11. Python Libraries
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
