@@ -198,7 +198,8 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pandas-profiling](https://pypi.org/project/pandas-profiling/) -  Provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution
 - [patsy](https://patsy.readthedocs.io/en/latest/) : Describing statistical models in Python
 - [pdf2image](https://pypi.org/project/pdf2image/): A wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list.  
-- petals[https://github.com/bigscience-workshop/petals]: Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [PEFT](https://huggingface.co/blog/peft) : Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware
+- [petals](https://github.com/bigscience-workshop/petals): Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [pillow](https://pypi.org/project/Pillow/): Python Imaging Library (Fork)  
 - [pipenv](https://pypi.org/project/pipenv/): Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.  
 - [pipreq](https://pypi.org/project/pipreqs/): Generate pip `requirements.txt` file based on imports of any project. Looking for maintainers to move this project forward.
