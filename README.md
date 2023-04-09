@@ -176,6 +176,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [lime](https://pypi.org/project/lime/): Local Interpretable Model-Agnostic Explanations for machine learning classifiers 
 - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html): Provides a central interface to connect your LLM’s with external data.
 - [loguru](https://github.com/Delgan/loguru#readme): Loguru is a library which aims to bring enjoyable logging in Python.
+- [lora](https://huggingface.co/blog/lora): LoRA for Efficient Stable Diffusion Fine-Tuning
 - [magic-wormhole](https://pypi.org/project/magic-wormhole/):This package provides a library and a command-line tool named wormhole, which makes it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another
 - [Manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos 
 - [matchzoo](https://matchzoo.readthedocs.io/en/master/): MatchZoo is a toolkit for text matching  
