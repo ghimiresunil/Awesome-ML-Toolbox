@@ -155,6 +155,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [fugue](https://fugue-tutorials.readthedocs.io/tutorials/fugue_sql/syntax.html): SQL for Pandas, Spark, and Dask DataFrames
 - [gdal](https://pypi.org/project/GDAL/): GDAL: Geospatial Data Abstraction Library  
 - [gensim](https://pypi.org/project/gensim/): Topic modelling, document indexing and similarity retrieval with large corpora.  
+- [gpt-index](https://gpt-index.readthedocs.io/en/latest/index.html): Central interface to connect your LLM’s with external data.
 - [gpt3-simple-primer](https://pypi.org/project/gpt3-simple-primer/) : Simple GPT-3 primer using openai.
 - [gspread](https://github.com/burnash/gspread): Python library to interact with Google Sheets  
 - [gunicorn](https://pypi.org/project/gunicorn/): Production web server for Flask, Django apps  
