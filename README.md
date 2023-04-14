@@ -149,7 +149,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [fastai](https://pypi.org/project/fastai/): fastai makes deep learning with PyTorch faster, more accurate, and easier  
 - [fastapi](https://fastapi.tiangolo.com/): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [fasttext](https://fasttext.cc/): Library for efficient text classification and representation learning  
-- [faster-whisper]
+- [faster-whisper](https://github.com/guillaumekln/faster-whisper): Reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
 - [finetune](https://github.com/IndicoDataSolutions/finetune): Scikit-learn style model finetuning for NLP  
 - [flask](https://palletsprojects.com/p/flask/): Lightweight WSGI web application framework  
 - [flask-restplus](https://pypi.org/project/flask-restplus/): Fully featured framework for fast, easy and documented API development with Flask  
