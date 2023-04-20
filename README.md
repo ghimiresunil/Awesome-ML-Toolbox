@@ -164,6 +164,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [gpt3-simple-primer](https://pypi.org/project/gpt3-simple-primer/) : Simple GPT-3 primer using openai.
 - [gspread](https://github.com/burnash/gspread): Python library to interact with Google Sheets  
 - [gunicorn](https://pypi.org/project/gunicorn/): Production web server for Flask, Django apps  
+- [h2oGPT](https://github.com/h2oai/h2ogpt): The world's best open source GPT
 - [hugging face](https://huggingface.co/): Build, train and deploy state of the art models powered by the reference open source in machine learning
 - [hungabunga](https://github.com/ypeleg/HungaBunga): HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!  
 - [implicit](https://github.com/benfred/implicit): Fast Python Collaborative Filtering for Implicit Feedback Datasets  
