@@ -266,6 +266,3 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [xlearn](https://github.com/aksnzhy/xlearn): High performance, easy-to-use, and scalable machine learning package  
 - [xlrd](https://pypi.org/project/xlrd/): Extract data from Excel spreadsheets  
 - [yaml](https://pyyaml.org/wiki/PyYAMLDocumentation): YAML parser and emitter for Python  
-
-
-# Working on latest model 
