@@ -263,6 +263,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Vertex AI](https://cloud.google.com/vertex-ai): Train and deploy ML models
 - [vaex](https://vaex.io/): a partial Pandas replacement that uses lazy evaluation and memory mapping to allow developers to work with large datasets on standard machines
 - [Whisper](https://openai.com/research/whisper): Automatic speech recognition model trained on 680,000 hours of multilingual data collected from the web. 
+- [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): optimised implementation of the Whisper model by OpenAI
 - [xgboost](https://xgboost.readthedocs.io/en/latest/index.html): Distributed gradient boosting library   
 - [xlearn](https://github.com/aksnzhy/xlearn): High performance, easy-to-use, and scalable machine learning package  
 - [xlrd](https://pypi.org/project/xlrd/): Extract data from Excel spreadsheets  
