@@ -248,6 +248,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [shutil](https://docs.python.org/3/library/shutil.html): Offers a number of high-level operations on files and collections of files  
 - [spacy](https://spacy.io/): Library for advanced Natural Language Processing in Python  
 - [sqlalchemy](https://www.sqlalchemy.org/): Python SQL toolkit  
+- [StableLM](https://github.com/Stability-AI/StableLM): StableLM: Stability AI Language Models
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html): Alpaca: A Strong, Replicable Instruction-Following Model
 - [sympy](https://www.sympy.org/): Python library for symbolic mathematics  
 - [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF  
