@@ -244,6 +244,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [scrapy](https://scrapy.org/): Framework for extracting the data you need from websites  
 - [seaborn](https://seaborn.pydata.org/): Data visualization library based on matplotlib.  
 - [selenium](https://selenium-python.readthedocs.io/): Provides a simple API to write functional/acceptance tests using Selenium WebDriver  
+- [Sentence-Transformers](https://www.sbert.net): Python framework for state-of-the-art sentence, text and image embeddings
 - [shap](https://github.com/slundberg/shap): Explain the output of any machine learning model  
 - [shutil](https://docs.python.org/3/library/shutil.html): Offers a number of high-level operations on files and collections of files  
 - [spacy](https://spacy.io/): Library for advanced Natural Language Processing in Python  
