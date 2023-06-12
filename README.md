@@ -256,6 +256,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF  
 - [tensorflow](https://www.tensorflow.org/): Core open source library to develop and train ML models  
 - [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56677&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) : A Neural Network Playground 
+- [tika](https://tika.apache.org/0.7/parser.html): An interface that provides the facility to extract content and metadata from any type of document
 - [tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [txtai](https://github.com/neuml/txtai): Build AI-powered semantic search applications
 - [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations 
@@ -272,5 +273,3 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [xlearn](https://github.com/aksnzhy/xlearn): High performance, easy-to-use, and scalable machine learning package  
 - [xlrd](https://pypi.org/project/xlrd/): Extract data from Excel spreadsheets  
 - [yaml](https://pyyaml.org/wiki/PyYAMLDocumentation): YAML parser and emitter for Python
-
-# Will update soon
