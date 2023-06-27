@@ -123,6 +123,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 ## 11. 3D Avatar
 - [Omniverse Audio2Face](https://www.nvidia.com/en-us/omniverse/apps/audio2face/): Instantly create expressive facial animation from just an audio source using generative AI.
 - [MetaHuman](https://www.unrealengine.com/en-US/metahuman): Complete framework that gives any creator the power to use highly realistic human characters in any way imaginable.
+- 
 ## 12. Python Libraries
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
 - [arize-phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
@@ -150,6 +151,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [docx2txt](https://pypi.org/project/docx2txt/): A pure python-based utility to extract text and images from docx files
 - [Dynaconf](https://www.dynaconf.com/): a dynamic configuration for Python applications
 - [Embedding projector](https://projector.tensorflow.org/):offers three commonly used methods of data dimensionality reduction, which allow easier visualization of complex data: PCA, t-SNE and custom linear projections
+- [factscore](https://pypi.org/project/factscore/): automatic evaluation metric for factual precision in long-form text generation
 - [FAISS](https://github.com/facebookresearch/faiss):A library for efficient similarity search and clustering of dense vectors
 - [fastai](https://pypi.org/project/fastai/): fastai makes deep learning with PyTorch faster, more accurate, and easier  
 - [fastapi](https://fastapi.tiangolo.com/): FastAPI framework, high performance, easy to learn, fast to code, ready for production
