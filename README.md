@@ -206,7 +206,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pandasql](https://pypi.org/project/pandasql/): Allows you to query pandas DataFrames using SQL syntax
 - [pandera](https://pandera.readthedocs.io/en/stable/): A Statistical Data Testing Toolkit
 - [pandarallel](https://pypi.org/project/pandarallel/): An easy to use library to speed up computation (by parallelizing on multi CPUs) with pandas.  
-- [pandas](https://pypi.org/project/pandas/): Powerful data structures for data analysis, time series, and statistics  
+- [pandas](https://pypi.org/project/pandas/): Powerful data structures for data analysis, time series, and statistics 
 - [pandas-profiling](https://pypi.org/project/pandas-profiling/) -  Provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution
 - [patsy](https://patsy.readthedocs.io/en/latest/) : Describing statistical models in Python
 - [pdf2image](https://pypi.org/project/pdf2image/): A wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list.  
@@ -250,6 +250,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Sentence-Transformers](https://www.sbert.net): Python framework for state-of-the-art sentence, text and image embeddings
 - [shap](https://github.com/slundberg/shap): Explain the output of any machine learning model  
 - [shutil](https://docs.python.org/3/library/shutil.html): Offers a number of high-level operations on files and collections of files  
+- [sketch](https://pypi.org/project/sketch/): understands the context of your data, greatly improving the relevance of suggestions
 - [spacy](https://spacy.io/): Library for advanced Natural Language Processing in Python  
 - [sqlalchemy](https://www.sqlalchemy.org/): Python SQL toolkit  
 - [StableLM](https://github.com/Stability-AI/StableLM): StableLM: Stability AI Language Models
