@@ -65,7 +65,6 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Docker](https://www.docker.com/)  
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 
-
 ## 04. IDE
 - [Pycharm Professional Edition](https://www.jetbrains.com/pycharm/download) 
 - [VS Code](https://code.visualstudio.com/download)
@@ -125,6 +124,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [MetaHuman](https://www.unrealengine.com/en-US/metahuman): Complete framework that gives any creator the power to use highly realistic human characters in any way imaginable.
 - 
 ## 12. Python Libraries
+- [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
 - [arize-phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
 - [argparse](https://docs.python.org/3/library/argparse.html): Write user-friendly command-line interfaces  
