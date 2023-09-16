@@ -122,7 +122,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 ## 11. 3D Avatar
 - [Omniverse Audio2Face](https://www.nvidia.com/en-us/omniverse/apps/audio2face/): Instantly create expressive facial animation from just an audio source using generative AI.
 - [MetaHuman](https://www.unrealengine.com/en-US/metahuman): Complete framework that gives any creator the power to use highly realistic human characters in any way imaginable.
-- 
+
 ## 12. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
