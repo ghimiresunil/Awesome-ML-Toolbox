@@ -22,6 +22,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite): AI code completions for all languages, intellisense, code snippets, code signatures, and cursor-following documentation for VS Code
 - [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launch a development local Server with live reload feature for static & dynamic pages
 - [local-history](https://marketplace.visualstudio.com/items?itemName=xyz.local-history): A visual source code plugin for maintaining local history of files.
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Material Design Icons for Visual Studio Code
 - [mssql](https://github.com/microsoft/vscode-mssql): Visual Studio Code SQL Server extension.
 - [output-colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer): Syntax highlighting for log files
 - [path-autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete): Provides path completion for visual studio code.
