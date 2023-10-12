@@ -176,6 +176,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [gunicorn](https://pypi.org/project/gunicorn/): Production web server for Flask, Django apps  
 - [h2oGPT](https://github.com/h2oai/h2ogpt): The world's best open source GPT
 - [hugging face](https://huggingface.co/): Build, train and deploy state of the art models powered by the reference open source in machine learning
+- [Haystack](https://haystack.deepset.ai/): LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data.
 - [hungabunga](https://github.com/ypeleg/HungaBunga): HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!  
 - [implicit](https://github.com/benfred/implicit): Fast Python Collaborative Filtering for Implicit Feedback Datasets  
 - [interpret](https://pypi.org/project/interpret/): Fit interpretable models. Explain blackbox machine learning.  
