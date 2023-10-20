@@ -92,7 +92,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 ## 07. Database Managemeny System (DBMS) 
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 - [MongoDB](https://www.mongodb.com/)
-- [MotorClient](https://motor.readthedocs.io/en/stable/api-tornado/motor_client.html):Connection to MongoDB
+- [MotorClient](https://motor.readthedocs.io/en/stable/api-tornado/motor_client.html)
 - [SQLite](https://www.sqlite.org/)  
 - [MySQL](https://www.mysql.com/)  
 - [PostgreSQL](https://www.postgresql.org/)  
