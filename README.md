@@ -136,6 +136,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Kubernetes](https://kubernetes.io/)
 - [Jenkins](https://www.jenkins.io/)
 - [AWS Lambda](https://aws.amazon.com/lambda/)
+- [AWS EMR](https://aws.amazon.com/emr/)
 
 ## 13. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
