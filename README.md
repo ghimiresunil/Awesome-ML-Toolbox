@@ -138,6 +138,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 - [AWS EMR](https://aws.amazon.com/emr/)
 - [AWS SQS](https://aws.amazon.com/sqs/)
+- [AWS ECR](https://aws.amazon.com/ecr/)
   
 ## 13. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
