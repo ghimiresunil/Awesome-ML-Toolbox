@@ -131,7 +131,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Milvus](https://milvus.io/)
 - [ChromaDB](https://www.trychroma.com/)
 
-## MLops
+## 13. MLops
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
 - [Jenkins](https://www.jenkins.io/)
@@ -141,7 +141,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [AWS ECR](https://aws.amazon.com/ecr/)
 - [AWS S3](https://aws.amazon.com/s3/)
   
-## 13. Python Libraries
+## 14. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
 - [arize-phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
