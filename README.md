@@ -143,6 +143,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 
 ## 14. Web Application 
 - [Gradio](https://www.gradio.app/)
+- [Streamlit](https://streamlit.io/)
 
 ## 15. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
