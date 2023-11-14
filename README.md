@@ -162,7 +162,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [conda](https://docs.conda.io/en/latest/): Package, dependency and environment management  
 - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html):Launching parallel tasks
 - [chime](https://github.com/MaxHalford/chime): Python sound notifications made easy.
-- [dabl](https://amueller.github.io/dabl/dev/): project tries to help make supervised machine learning more accessible for beginners, and reduce boiler plate for common tasks.
+- [dabl](https://amueller.github.io/dabl/dev/): Learning comes from comparing finished products and picking the better one
 - [dask](https://www.dask.org/): Scale the Python tools you love
 - [datetime](https://docs.python.org/3/library/datetime.html): Supplies classes for manipulating dates and times  
 - [deepctr](https://pypi.org/project/deepctr/): Deep-learning based CTR models  
@@ -171,6 +171,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [djongo](https://github.com/nesdis/djongo): Django and MongoDB database connector   
 - [dlib](https://pypi.org/project/dlib/): A toolkit for making real world machine learning and data analysis applications in C++  
 - [docx2txt](https://pypi.org/project/docx2txt/): A pure python-based utility to extract text and images from docx files
+- [DPO Trainer](https://huggingface.co/docs/trl/main/en/dpo_trainer): TRL supports the DPO Trainer for training language models from preference data, as described in the paper Direct Preference Optimization
 - [Dynaconf](https://www.dynaconf.com/): a dynamic configuration for Python applications
 - [Embedding projector](https://projector.tensorflow.org/):offers three commonly used methods of data dimensionality reduction, which allow easier visualization of complex data: PCA, t-SNE and custom linear projections
 - [factscore](https://pypi.org/project/factscore/): automatic evaluation metric for factual precision in long-form text generation
