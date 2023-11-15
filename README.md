@@ -290,6 +290,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations 
 - [tracemalloc](https://docs.python.org/3/library/tracemalloc.html) : Trace memory allocations
 - [trafilatura](https://trafilatura.readthedocs.io/en/latest/): A Python package & command-line tool to gather text on the Web
+- [Trainer](https://huggingface.co/docs/transformers/main_classes/trainer): Provides an API for feature-complete training in PyTorch for most standard use cases
 - [Trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O
 - [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
 - [vectorhub](https://github.com/RelevanceAI/vectorhub): Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
