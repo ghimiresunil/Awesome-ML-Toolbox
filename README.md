@@ -280,6 +280,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [sqlalchemy](https://www.sqlalchemy.org/): Python SQL toolkit  
 - [StableLM](https://github.com/Stability-AI/StableLM): StableLM: Stability AI Language Models
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html): Alpaca: A Strong, Replicable Instruction-Following Model
+- [Supervised Fine-tuning Trainer](https://huggingface.co/docs/trl/sft_trainer): Involves adapting a pre-trained Language Model (LLM) to a specific downstream task using labeled data
 - [sympy](https://www.sympy.org/): Python library for symbolic mathematics  
 - [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF  
 - [tensorflow](https://www.tensorflow.org/): Core open source library to develop and train ML models  
