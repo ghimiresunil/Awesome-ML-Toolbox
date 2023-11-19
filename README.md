@@ -150,6 +150,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 
 ## 16. Terminal
 - [Tmux](https://github.com/tmux/tmux/wiki): Open-source terminal multiplexer for Unix-like operating systems
+- [ZSH](https://ohmyz.sh/):Unix shell that is built on top of bash
   
 ## 16. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
