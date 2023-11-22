@@ -280,6 +280,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [seaborn](https://seaborn.pydata.org/): Data visualization library based on matplotlib.  
 - [selenium](https://selenium-python.readthedocs.io/): Provides a simple API to write functional/acceptance tests using Selenium WebDriver  
 - [Sentence-Transformers](https://www.sbert.net): Python framework for state-of-the-art sentence, text and image embeddings
+- [Supervised Fine-tuning Trainer](https://huggingface.co/docs/trl/sft_trainer): This class is a wrapper around the `transformers.Trainer` class and inherits all of its attributes and methods. The trainer takes care of properly initializing the PeftModel in case a user passes a `PeftConfig` object.
 - [shap](https://github.com/slundberg/shap): Explain the output of any machine learning model  
 - [shutil](https://docs.python.org/3/library/shutil.html): Offers a number of high-level operations on files and collections of files  
 - [sketch](https://pypi.org/project/sketch/): understands the context of your data, greatly improving the relevance of suggestions
