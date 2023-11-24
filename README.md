@@ -151,8 +151,11 @@ Now and then, I get to share some big news with you. Today is one of those days.
 ## 16. Terminal
 - [Tmux](https://github.com/tmux/tmux/wiki): Open-source terminal multiplexer for Unix-like operating systems
 - [ZSH](https://ohmyz.sh/):Unix shell that is built on top of bash
+
+## 17. Paper Reading 
+- [Mendely](https://www.mendeley.com/): Reference manager and academic social network that can help you organize your research
   
-## 16. Python Libraries
+## 18. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
 - [arize-phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
