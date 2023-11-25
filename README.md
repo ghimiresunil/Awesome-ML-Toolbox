@@ -153,8 +153,9 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [ZSH](https://ohmyz.sh/):Unix shell that is built on top of bash
 
 ## 17. Paper Reading 
-- [Mendely](https://www.mendeley.com/): Reference manager and academic social network that can help you organize your research
-  
+- [Mendely](https://www.mendeley.com/): Reference manager and academic social network that can help you organize your research.
+- [Zotero](https://www.zotero.org/): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
+
 ## 18. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
