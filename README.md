@@ -150,6 +150,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 
 ## 16. Terminal
 - [Tmux](https://github.com/tmux/tmux/wiki): Open-source terminal multiplexer for Unix-like operating systems
+- [bash](https://www.gnu.org/software/bash/): control OS without having to navigate menus, options, and windows within a GUI
 - [ZSH](https://ohmyz.sh/):Unix shell that is built on top of bash
 
 ## 17. Paper Reading 
