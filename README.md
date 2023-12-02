@@ -193,6 +193,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [fasttext](https://fasttext.cc/): Library for efficient text classification and representation learning  
 - [faster-whisper](https://github.com/guillaumekln/faster-whisper): Reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
 - [finetune](https://github.com/IndicoDataSolutions/finetune): Scikit-learn style model finetuning for NLP  
+- [flash-attn](https://pypi.org/project/flash-attn/): Flash Attention: Fast and Memory-Efficient Exact Attention
 - [flask](https://palletsprojects.com/p/flask/): Lightweight WSGI web application framework  
 - [flask-restplus](https://pypi.org/project/flask-restplus/): Fully featured framework for fast, easy and documented API development with Flask  
 - [fugue](https://fugue-tutorials.readthedocs.io/tutorials/fugue_sql/syntax.html): SQL for Pandas, Spark, and Dask DataFrames
