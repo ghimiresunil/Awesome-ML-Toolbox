@@ -185,6 +185,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [docx2txt](https://pypi.org/project/docx2txt/): A pure python-based utility to extract text and images from docx files
 - [DPO Trainer](https://huggingface.co/docs/trl/main/en/dpo_trainer): TRL supports the DPO Trainer for training language models from preference data, as described in the paper Direct Preference Optimization
 - [Dynaconf](https://www.dynaconf.com/): a dynamic configuration for Python applications
+- [einops](https://pypi.org/project/einops/): Flexible and powerful tensor operations for readable and reliable code.
 - [Embedding projector](https://projector.tensorflow.org/):offers three commonly used methods of data dimensionality reduction, which allow easier visualization of complex data: PCA, t-SNE and custom linear projections
 - [factscore](https://pypi.org/project/factscore/): automatic evaluation metric for factual precision in long-form text generation
 - [FAISS](https://github.com/facebookresearch/faiss):A library for efficient similarity search and clustering of dense vectors
