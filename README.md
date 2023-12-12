@@ -275,6 +275,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pytorch](https://pytorch.org/): Open source machine learning framework  
 - [pytorch-transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch 
 - [pyyaml](https://pypi.org/project/PyYAML/): YAML 1.1 parser 
+- [QLoRA](https://github.com/artidoro/qlora): efficient Finetuning of Quantized LLMs
 - [rasterio](https://pypi.org/project/rasterio/): Reads and writes GeoTIFF formats and provides a Python API based on N-D arrays
 - [RapidAPI](https://rapidapi.com/):To discover and connect to thousands of APIs
 - [Ray](https://www.ray.io/): Effortlessly scale your most complex workloads
