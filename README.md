@@ -257,6 +257,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pipenv](https://pypi.org/project/pipenv/): Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.  
 - [pipreq](https://pypi.org/project/pipreqs/): Generate pip `requirements.txt` file based on imports of any project. Looking for maintainers to move this project forward.
 - [plotly](https://pypi.org/project/plotly/): An open-source, interactive graphing library for Python  
+- [poetry](https://python-poetry.org/): Python packaging and dependency management made easy
 - [pre-commit](https://pypi.org/project/pre-commit/): A framework for managing and maintaining multi-language pre-commit hooks.
 - [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
