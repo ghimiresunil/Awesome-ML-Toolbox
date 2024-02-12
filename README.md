@@ -7,6 +7,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [AREPL for python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl): Real-time python scratchpad
 - [autocomplete-shell](https://github.com/TrumanDu/autocomplate-shell): Autocompletion for bash script in vscode
 - [autodocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring): Quickly generate docstrings for python functions
+- [Beanie](https://beanie-odm.dev/): Asynchronous Python object-document mapper (ODM) for MongoDB. Data models are based on Pydantic.
 - [better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Color code comments based on TODO/Alert/Warning etc.
 - [bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks): Bookmarks lines in code and jump to them 
 - [code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker): Catch common spelling errors in codebase 
