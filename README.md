@@ -181,6 +181,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [datetime](https://docs.python.org/3/library/datetime.html): Supplies classes for manipulating dates and times  
 - [deepctr](https://pypi.org/project/deepctr/): Deep-learning based CTR models  
 - [deepspeed](https://github.com/microsoft/DeepSpeed/): Deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [deep-translatot](https://pypi.org/project/deep-translator/): A flexible FREE and UNLIMITED tool to translate between different languages in a simple way using multiple translators.
 - [django](https://www.djangoproject.com/): High-level Python Web framework  
 - [djongo](https://github.com/nesdis/djongo): Django and MongoDB database connector   
 - [dlib](https://pypi.org/project/dlib/): A toolkit for making real world machine learning and data analysis applications in C++  
