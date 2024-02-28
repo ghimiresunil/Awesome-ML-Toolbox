@@ -187,6 +187,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [dlib](https://pypi.org/project/dlib/): A toolkit for making real world machine learning and data analysis applications in C++  
 - [docx2txt](https://pypi.org/project/docx2txt/): A pure python-based utility to extract text and images from docx files
 - [DPO Trainer](https://huggingface.co/docs/trl/main/en/dpo_trainer): TRL supports the DPO Trainer for training language models from preference data, as described in the paper Direct Preference Optimization
+- [DSPy](https://github.com/stanfordnlp/dspy): The framework for programming—not prompting—foundation models
 - [Dynaconf](https://www.dynaconf.com/): a dynamic configuration for Python applications
 - [einops](https://pypi.org/project/einops/): Flexible and powerful tensor operations for readable and reliable code.
 - [Embedding projector](https://projector.tensorflow.org/):offers three commonly used methods of data dimensionality reduction, which allow easier visualization of complex data: PCA, t-SNE and custom linear projections
