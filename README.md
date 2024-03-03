@@ -320,6 +320,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [vectorhub](https://github.com/RelevanceAI/vectorhub): Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
 - [Vertex AI](https://cloud.google.com/vertex-ai): Train and deploy ML models
 - [vaex](https://vaex.io/): a partial Pandas replacement that uses lazy evaluation and memory mapping to allow developers to work with large datasets on standard machines
+- [wandb](https://wandb.ai/site): MLOps platform helps AI developers streamline their ML workflow from end-to-end.
 - [Whisper](https://openai.com/research/whisper): Automatic speech recognition model trained on 680,000 hours of multilingual data collected from the web. 
 - [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): optimised implementation of the Whisper model by OpenAI
 - [xgboost](https://xgboost.readthedocs.io/en/latest/index.html): Distributed gradient boosting library   
