@@ -122,6 +122,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [draw.io](https://app.diagrams.net/)
 - [Canva](https://www.canva.com/)
 - [mermaid](https://mermaid.js.org/)
+- [eraser.io](https://app.eraser.io/dashboard/all)
 
 ## 11. 3D Avatar
 - [Omniverse Audio2Face](https://www.nvidia.com/en-us/omniverse/apps/audio2face/): Instantly create expressive facial animation from just an audio source using generative AI.
