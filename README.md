@@ -22,7 +22,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides): Guides is simply an extension that add various indentation guide lines
 - [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite): AI code completions for all languages, intellisense, code snippets, code signatures, and cursor-following documentation for VS Code
 - [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launch a development local Server with live reload feature for static & dynamic pages
--[LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop): Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop): Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [local-history](https://marketplace.visualstudio.com/items?itemName=xyz.local-history): A visual source code plugin for maintaining local history of files.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Material Design Icons for Visual Studio Code
 - [mssql](https://github.com/microsoft/vscode-mssql): Visual Studio Code SQL Server extension.
