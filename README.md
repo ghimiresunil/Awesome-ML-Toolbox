@@ -103,6 +103,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Cassandra](http://cassandra.apache.org/)  
 - [Elasticsearch](https://www.elastic.co/)  
 - [Neo4j](https://neo4j.com/)
+- [Cypher](https://neo4j.com/docs/cypher-manual/current/introduction/)
 
 ## 08. Profiling Tools
 - [cProfile](https://docs.python.org/3.2/library/profile.html)  
