@@ -310,6 +310,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Supervised Fine-tuning Trainer](https://huggingface.co/docs/trl/sft_trainer): Involves adapting a pre-trained Language Model (LLM) to a specific downstream task using labeled data
 - [sympy](https://www.sympy.org/): Python library for symbolic mathematics  
 - [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF  
+- [taichi](https://pypi.org/project/taichi/): Productive, portable, and performant GPU programming in Python.
 - [tensorflow](https://www.tensorflow.org/): Core open source library to develop and train ML models  
 - [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56677&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) : A Neural Network Playground 
 - [tika](https://tika.apache.org/0.7/parser.html): An interface that provides the facility to extract content and metadata from any type of document
