@@ -24,6 +24,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launch a development local Server with live reload feature for static & dynamic pages
 - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop): Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [local-history](https://marketplace.visualstudio.com/items?itemName=xyz.local-history): A visual source code plugin for maintaining local history of files.
+- [Marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode): Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Material Design Icons for Visual Studio Code
 - [mssql](https://github.com/microsoft/vscode-mssql): Visual Studio Code SQL Server extension.
 - [output-colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer): Syntax highlighting for log files
