@@ -245,7 +245,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [more_itertools](https://pypi.org/project/more-itertools/): More routines for operating on iterables, beyond itertools  
 - [multiprocessing-logging](https://pypi.org/project/multiprocessing-logging/): Logger for multiprocessing applications  
 - [newspaper](https://pypi.org/project/newspaper/): Simplified python article discovery & extraction.  
-- [nlopt](https://pypi.org/project/nlopt/): Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization  
+- [nlopt](https://pypi.org/project/nlopt/): Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization 
 - [nltk](https://pypi.org/project/nltk/): Natural Language Toolkit  
 - [numpy](https://pypi.org/project/numpy/): NumPy is the fundamental package for array computing with Python.  
 - [openai](https://openai.com/) : Provides convenient access to the OpenAI API from applications written in the Python language
@@ -268,6 +268,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [plotly](https://pypi.org/project/plotly/): An open-source, interactive graphing library for Python  
 - [poetry](https://python-poetry.org/): Python packaging and dependency management made easy
 - [pre-commit](https://pypi.org/project/pre-commit/): A framework for managing and maintaining multi-language pre-commit hooks.
+- [presidio](https://github.com/microsoft/presidio): Context aware, pluggable and customizable data protection and de-identification SDK for text and images
 - [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
 - [pyaudio](https://pypi.org/project/PyAudio/): Cross-platform audio I/O with PortAudio
