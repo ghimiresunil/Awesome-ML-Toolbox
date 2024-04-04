@@ -324,6 +324,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Trainer](https://huggingface.co/docs/transformers/main_classes/trainer): Provides an API for feature-complete training in PyTorch for most standard use cases
 - [Trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O
 - [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
+- [vmap](https://jax.readthedocs.io/en/latest/_autosummary/jax.vmap.html): vmap is the vectorizing map; vmap(func) returns a new function that maps func over some dimension of the inputs.
 - [vectorhub](https://github.com/RelevanceAI/vectorhub): Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
 - [Vertex AI](https://cloud.google.com/vertex-ai): Train and deploy ML models
 - [vaex](https://vaex.io/): a partial Pandas replacement that uses lazy evaluation and memory mapping to allow developers to work with large datasets on standard machines
