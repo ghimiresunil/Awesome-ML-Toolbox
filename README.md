@@ -307,6 +307,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [shutil](https://docs.python.org/3/library/shutil.html): Offers a number of high-level operations on files and collections of files  
 - [sketch](https://pypi.org/project/sketch/): understands the context of your data, greatly improving the relevance of suggestions
 - [spacy](https://spacy.io/): Library for advanced Natural Language Processing in Python  
+- [SpanMarker](https://github.com/tomaarsen/SpanMarkerNER): SpanMarker for Named Entity Recognition
 - [sqlalchemy](https://www.sqlalchemy.org/): Python SQL toolkit  
 - [StableLM](https://github.com/Stability-AI/StableLM): StableLM: Stability AI Language Models
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html): Alpaca: A Strong, Replicable Instruction-Following Model
