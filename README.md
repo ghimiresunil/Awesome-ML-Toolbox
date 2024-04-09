@@ -273,6 +273,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
 - [pyaudio](https://pypi.org/project/PyAudio/): Cross-platform audio I/O with PortAudio
 - [pydash](https://pydash.readthedocs.io/en/latest/): The kitchen sink of Python utility libraries for doing "stuff" in a functional way	
+- [Pylint](https://github.com/pylint-dev/pylint): It's not just a linter that annoys you!
 - [Pipe](https://pypi.org/project/pipe/): Write clean python Code
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/): PyMuPDF is a Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit, which is maintained and developed by Artifex Software, Inc
 - [pymongo](https://pypi.org/project/pymongo/): Python driver for MongoDB  
