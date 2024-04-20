@@ -258,6 +258,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pandarallel](https://pypi.org/project/pandarallel/): An easy to use library to speed up computation (by parallelizing on multi CPUs) with pandas.  
 - [pandas](https://pypi.org/project/pandas/): Powerful data structures for data analysis, time series, and statistics 
 - [pandas-profiling](https://pypi.org/project/pandas-profiling/) -  Provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution
+- [Panel](https://github.com/holoviz/panel): The powerful data exploration & web app framework for Python
 - [patsy](https://patsy.readthedocs.io/en/latest/) : Describing statistical models in Python
 - [pdf2image](https://pypi.org/project/pdf2image/): A wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list.  
 - [PEFT](https://huggingface.co/blog/peft) : Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware
