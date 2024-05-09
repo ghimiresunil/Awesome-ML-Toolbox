@@ -283,14 +283,15 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pymysql](https://pypi.org/project/PyMySQL/): Pure Python MySQL Driver
 - [pyod](https://pyod.readthedocs.io/en/latest/): PyOD is the most comprehensive and scalable Python library for detecting outlying objects in multivariate data.
 - [pyodbc](https://pypi.org/project/pyodbc/): pyodbc is an open source Python module that makes accessing ODBC databases simple
-- [pypdf2](https://pypi.org/project/PyPDF2/): PDF toolkit  
+- [pypdf2](https://pypi.org/project/PyPDF2/): PDF toolkit
+- [pyppeteer](https://github.com/pyppeteer/pyppeteer): Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [pyspark](https://pypi.org/project/pyspark/): Apache Spark Python API  
 - [pyttsx3](https://pypi.org/project/pyttsx3/): text-to-speech conversion library in Python
 - [pytest](https://pypi.org/project/pytest/): pytest: simple powerful testing with Python  
 - [python-dotenv](https://pypi.org/project/python-dotenv/): Add .env support to your django/flask apps in development and deployments  
 - [pytorch](https://pytorch.org/): Open source machine learning framework  
 - [pytorch-transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch 
-- [pyyaml](https://pypi.org/project/PyYAML/): YAML 1.1 parser 
+- [pyyaml](https://pypi.org/project/PyYAML/): YAML 1.1 parser
 - [QLoRA](https://github.com/artidoro/qlora): efficient Finetuning of Quantized LLMs
 - [Ragas](https://github.com/explodinggradients/ragas): Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [rasterio](https://pypi.org/project/rasterio/): Reads and writes GeoTIFF formats and provides a Python API based on N-D arrays
