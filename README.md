@@ -68,6 +68,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Conda](https://docs.conda.io/en/latest/)  
 - [Docker](https://www.docker.com/)  
 - [AWS Lambda](https://aws.amazon.com/lambda/)
+- [pyenv](https://github.com/pyenv/pyenv): Simple Python version management
 
 ## 04. IDE
 - [Pycharm Professional Edition](https://www.jetbrains.com/pycharm/download) 
@@ -275,7 +276,6 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
 - [pyaudio](https://pypi.org/project/PyAudio/): Cross-platform audio I/O with PortAudio
 - [pydash](https://pydash.readthedocs.io/en/latest/): The kitchen sink of Python utility libraries for doing "stuff" in a functional way	
-- [pyenv](https://github.com/pyenv/pyenv): Simple Python version management
 - [Pylint](https://github.com/pylint-dev/pylint): It's not just a linter that annoys you!
 - [Pipe](https://pypi.org/project/pipe/): Write clean python Code
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/): PyMuPDF is a Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit, which is maintained and developed by Artifex Software, Inc
