@@ -119,7 +119,8 @@ Now and then, I get to share some big news with you. Today is one of those days.
 ## 09. API Platform
 - [Postman](https://www.postman.com/)
 - [insomnia](https://insomnia.rest/)
-
+- [Newman](https://www.npmjs.com/package/newman)
+  
 ## 10. Drawing Tools
 - [Excalidraw](https://excalidraw.com/)
 - [draw.io](https://app.diagrams.net/)
