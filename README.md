@@ -68,8 +68,8 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Conda](https://docs.conda.io/en/latest/)  
 - [Docker](https://www.docker.com/)  
 - [AWS Lambda](https://aws.amazon.com/lambda/)
-- [pyenv](https://github.com/pyenv/pyenv): Simple Python version management
-
+- [pyenv](https://github.com/pyenv/pyenv)
+  
 ## 04. IDE
 - [Pycharm Professional Edition](https://www.jetbrains.com/pycharm/download) 
 - [VS Code](https://code.visualstudio.com/download)
