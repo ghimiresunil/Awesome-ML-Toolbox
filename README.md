@@ -294,6 +294,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pytorch-transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch 
 - [pyyaml](https://pypi.org/project/PyYAML/): YAML 1.1 parser
 - [QLoRA](https://github.com/artidoro/qlora): efficient Finetuning of Quantized LLMs
+- [RabbitMQ](https://www.rabbitmq.com/docs/queues): A queue in RabbitMQ is an ordered collection of messages
 - [Ragas](https://github.com/explodinggradients/ragas): Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [rasterio](https://pypi.org/project/rasterio/): Reads and writes GeoTIFF formats and provides a Python API based on N-D arrays
 - [RapidAPI](https://rapidapi.com/):To discover and connect to thousands of APIs
