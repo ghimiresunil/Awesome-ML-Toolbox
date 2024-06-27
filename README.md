@@ -164,7 +164,10 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Mendely](https://www.mendeley.com/): Reference manager and academic social network that can help you organize your research.
 - [Zotero](https://www.zotero.org/): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
 
-## 18. Python Libraries
+## 18. Linux
+- [Symlink](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/): Points to another file or folder on your computer, or a connected file system
+
+## 19. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
 - [arize-phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
