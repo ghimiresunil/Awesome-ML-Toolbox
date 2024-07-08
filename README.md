@@ -250,6 +250,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [mongoengine](https://pypi.org/project/mongoengine/): MongoEngine is a Python Object-Document Mapper for working with MongoDB.  
 - [more_itertools](https://pypi.org/project/more-itertools/): More routines for operating on iterables, beyond itertools  
 - [multiprocessing-logging](https://pypi.org/project/multiprocessing-logging/): Logger for multiprocessing applications  
+- [mypy](https://mypy-lang.org/): optional static type checker for Python that aims to combine the benefits of dynamic
 - [newspaper](https://pypi.org/project/newspaper/): Simplified python article discovery & extraction.  
 - [nlopt](https://pypi.org/project/nlopt/): Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization 
 - [nltk](https://pypi.org/project/nltk/): Natural Language Toolkit  
