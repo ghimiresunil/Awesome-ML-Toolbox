@@ -283,6 +283,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [pydash](https://pydash.readthedocs.io/en/latest/): The kitchen sink of Python utility libraries for doing "stuff" in a functional way	
 - [Pylint](https://github.com/pylint-dev/pylint): It's not just a linter that annoys you!
 - [Pipe](https://pypi.org/project/pipe/): Write clean python Code
+- [pydantic](https://docs.pydantic.dev/latest/): Most widely used data validation library for Python.
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/): PyMuPDF is a Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit, which is maintained and developed by Artifex Software, Inc
 - [pymongo](https://pypi.org/project/pymongo/): Python driver for MongoDB  
 - [pymysql](https://pypi.org/project/PyMySQL/): Pure Python MySQL Driver
