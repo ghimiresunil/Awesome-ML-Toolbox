@@ -159,7 +159,8 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Tmux](https://github.com/tmux/tmux/wiki): Open-source terminal multiplexer for Unix-like operating systems
 - [bash](https://www.gnu.org/software/bash/): control OS without having to navigate menus, options, and windows within a GUI
 - [ZSH](https://ohmyz.sh/):Unix shell that is built on top of bash
-
+- [Emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor 
+  
 ## 17. Paper Reading 
 - [Mendely](https://www.mendeley.com/): Reference manager and academic social network that can help you organize your research.
 - [Zotero](https://www.zotero.org/): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
