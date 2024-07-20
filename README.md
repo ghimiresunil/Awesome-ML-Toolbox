@@ -52,7 +52,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 
 
-## 02. Vim
+## 02. Vim / NeoVim
 - [nerdtree](https://github.com/scrooloose/nerdtree): Project and file navigation  
 - [tagbar](https://github.com/majutsushi/tagbar): An easy way to browse the class and modules  
 - [vim-surround](https://github.com/tpope/vim-surround): matches parentheses, brackets, quotes, XML tags, and more  
