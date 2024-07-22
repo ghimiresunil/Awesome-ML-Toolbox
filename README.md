@@ -168,6 +168,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 ## 18. Linux
 - [Symlink](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/): Points to another file or folder on your computer, or a connected file system
 - [dotfiles](https://dotfiles.github.io/): Control the settings and preferences for applications and your system environment
+- [GNU Stow](https://www.gnu.org/software/stow/): Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. For
   
 ## 19. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
