@@ -50,7 +50,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code
 - [vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): Review and manage your GitHub pull requests directly in VS Code
 - [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
-
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils): A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 
 ## 02. Vim / NeoVim
 - [nerdtree](https://github.com/scrooloose/nerdtree): Project and file navigation  
