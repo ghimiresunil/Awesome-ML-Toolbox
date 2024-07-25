@@ -215,6 +215,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [flask](https://palletsprojects.com/p/flask/): Lightweight WSGI web application framework  
 - [flask-restplus](https://pypi.org/project/flask-restplus/): Fully featured framework for fast, easy and documented API development with Flask  
 - [Flower](https://flower.readthedocs.io/en/latest/config.html#command-line): Real-time monitoring using Celery Events
+- [fairscale](https://github.com/facebookresearch/fairscale): PyTorch extensions for high performance and large scale training.
 - [fugue](https://fugue-tutorials.readthedocs.io/tutorials/fugue_sql/syntax.html): SQL for Pandas, Spark, and Dask DataFrames
 - [gdal](https://pypi.org/project/GDAL/): GDAL: Geospatial Data Abstraction Library  
 - [gensim](https://pypi.org/project/gensim/): Topic modelling, document indexing and similarity retrieval with large corpora.  
