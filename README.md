@@ -52,6 +52,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils): A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file): Create files anywhere in your workspace from the keyboard
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap): Take beautiful screenshots of your code
 
 ## 02. Vim / NeoVim
 - [nerdtree](https://github.com/scrooloose/nerdtree): Project and file navigation  
