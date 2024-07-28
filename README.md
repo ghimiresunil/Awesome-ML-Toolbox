@@ -118,10 +118,11 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [time.time()](https://docs.python.org/3/library/time.html)
 - [time.perf_counter()](https://docs.python.org/3/library/time.html)
 
-## 09. API Platform
+## 09. API/Testing Platform
 - [Postman](https://www.postman.com/)
 - [insomnia](https://insomnia.rest/)
 - [Newman](https://www.npmjs.com/package/newman)
+- [grafana](https://github.com/grafana/grafana)
   
 ## 10. Drawing Tools
 - [Excalidraw](https://excalidraw.com/)
