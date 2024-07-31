@@ -261,6 +261,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [newspaper](https://pypi.org/project/newspaper/): Simplified python article discovery & extraction.  
 - [nlopt](https://pypi.org/project/nlopt/): Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization 
 - [nltk](https://pypi.org/project/nltk/): Natural Language Toolkit  
+- [netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models
 - [numpy](https://pypi.org/project/numpy/): NumPy is the fundamental package for array computing with Python.  
 - [openai](https://openai.com/) : Provides convenient access to the OpenAI API from applications written in the Python language
 - [openai-playground](https://platform.openai.com/playground): Allows users to explore and experiment with OpenAI's artificial intelligence models,
