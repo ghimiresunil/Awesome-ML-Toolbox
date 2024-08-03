@@ -208,7 +208,8 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Embedding projector](https://projector.tensorflow.org/):offers three commonly used methods of data dimensionality reduction, which allow easier visualization of complex data: PCA, t-SNE and custom linear projections
 - [factscore](https://pypi.org/project/factscore/): automatic evaluation metric for factual precision in long-form text generation
 - [FAISS](https://github.com/facebookresearch/faiss):A library for efficient similarity search and clustering of dense vectors
-- [fastai](https://pypi.org/project/fastai/): fastai makes deep learning with PyTorch faster, more accurate, and easier  
+- [fasthtml](https://github.com/pcarbonn/fast_html): Generate HTML conveniently and efficiently in Python
+- [fastai](https://pypi.org/project/fastai/): fastai makes deep learning with PyTorch faster, more accurate, and easier 
 - [fastapi](https://fastapi.tiangolo.com/): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [fasttext](https://fasttext.cc/): Library for efficient text classification and representation learning  
 - [faster-whisper](https://github.com/guillaumekln/faster-whisper): Reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
