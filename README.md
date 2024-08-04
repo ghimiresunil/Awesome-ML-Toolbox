@@ -106,8 +106,6 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Redis](https://redis.io/)  
 - [Cassandra](http://cassandra.apache.org/)  
 - [Elasticsearch](https://www.elastic.co/)  
-- [Neo4j](https://neo4j.com/)
-- [Cypher](https://neo4j.com/docs/cypher-manual/current/introduction/)
 
 ## 08. Profiling Tools
 - [cProfile](https://docs.python.org/3.2/library/profile.html)  
@@ -141,7 +139,11 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Milvus](https://milvus.io/)
 - [ChromaDB](https://www.trychroma.com/)
 
-## 13. MLops
+## 13. Graph DB
+- [Neo4j](https://neo4j.com/)
+- [Cypher](https://neo4j.com/docs/cypher-manual/current/introduction/)
+  
+## 14. MLops
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
 - [Jenkins](https://www.jenkins.io/)
@@ -151,29 +153,29 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [AWS ECR](https://aws.amazon.com/ecr/)
 - [AWS S3](https://aws.amazon.com/s3/)
 
-## 14. Web Application 
+## 15. Web Application 
 - [Gradio](https://www.gradio.app/)
 - [Streamlit](https://streamlit.io/)
 
-## 15. Server
+## 16. Server
 - [Slurm](https://slurm.schedmd.com/documentation.html): Managing and scheduling Linux clusters.
 
-## 16. Terminal
+## 17. Terminal
 - [Tmux](https://github.com/tmux/tmux/wiki): Open-source terminal multiplexer for Unix-like operating systems
 - [bash](https://www.gnu.org/software/bash/): control OS without having to navigate menus, options, and windows within a GUI
 - [ZSH](https://ohmyz.sh/):Unix shell that is built on top of bash
 - [Emacs](https://www.gnu.org/software/emacs/): An extensible, customizable, free/libre text editor 
   
-## 17. Paper Reading 
+## 18. Paper Reading 
 - [Mendely](https://www.mendeley.com/): Reference manager and academic social network that can help you organize your research.
 - [Zotero](https://www.zotero.org/): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
 
-## 18. Linux
+## 19. Linux
 - [Symlink](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/): Points to another file or folder on your computer, or a connected file system
 - [dotfiles](https://dotfiles.github.io/): Control the settings and preferences for applications and your system environment
 - [GNU Stow](https://www.gnu.org/software/stow/): Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. 
   
-## 19. Python Libraries
+## 20. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
 - [arize-phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
