@@ -106,7 +106,8 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Oracle Database](https://www.oracle.com/database/)  
 - [Redis](https://redis.io/)  
 - [Cassandra](http://cassandra.apache.org/)  
-- [Elasticsearch](https://www.elastic.co/)  
+- [Elasticsearch](https://www.elastic.co/)
+- [alembic](https://alembic.sqlalchemy.org/en/latest/)
 
 ## 08. Profiling Tools
 - [cProfile](https://docs.python.org/3.2/library/profile.html)  
