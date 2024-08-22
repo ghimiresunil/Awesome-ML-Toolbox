@@ -356,6 +356,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [vectorhub](https://github.com/RelevanceAI/vectorhub): Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
 - [Vertex AI](https://cloud.google.com/vertex-ai): Train and deploy ML models
 - [vaex](https://vaex.io/): a partial Pandas replacement that uses lazy evaluation and memory mapping to allow developers to work with large datasets on standard machines
+- [vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs
 - [wandb](https://wandb.ai/site): MLOps platform helps AI developers streamline their ML workflow from end-to-end.
 - [Websocket](https://fastapi.tiangolo.com/advanced/websockets/): real-time, event-driven communication between clients and servers
 - [Whisper](https://openai.com/research/whisper): Automatic speech recognition model trained on 680,000 hours of multilingual data collected from the web. 
