@@ -345,6 +345,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56677&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) : A Neural Network Playground 
 - [tika](https://tika.apache.org/0.7/parser.html): An interface that provides the facility to extract content and metadata from any type of document
 - [tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+- [triton](https://github.com/triton-lang/triton/): Development repository for the Triton language and compiler
 - [txtai](https://github.com/neuml/txtai): Build AI-powered semantic search applications
 - [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations 
 - [tracemalloc](https://docs.python.org/3/library/tracemalloc.html) : Trace memory allocations
