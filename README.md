@@ -123,6 +123,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [insomnia](https://insomnia.rest/)
 - [Newman](https://www.npmjs.com/package/newman)
 - [grafana](https://github.com/grafana/grafana)
+- [ngrok](https://ngrok.com/)
   
 ## 10. Drawing Tools
 - [Excalidraw](https://excalidraw.com/)
