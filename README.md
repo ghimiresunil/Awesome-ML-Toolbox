@@ -269,6 +269,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 - [nltk](https://pypi.org/project/nltk/): Natural Language Toolkit  
 - [netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models
 - [numpy](https://pypi.org/project/numpy/): NumPy is the fundamental package for array computing with Python.  
+- [nvitop](https://github.com/XuehaiPan/nvitop/tree/main): An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [openai](https://openai.com/) : Provides convenient access to the OpenAI API from applications written in the Python language
 - [openai-playground](https://platform.openai.com/playground): Allows users to explore and experiment with OpenAI's artificial intelligence models,
 - [OpenAPI](https://www.openapis.org/): OpenAPI Specification provides a formal standard for describing HTTP APIs.
