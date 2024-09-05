@@ -1,6 +1,6 @@
 # Awesome Toolbox used in my Tech Journey
 
-Now and then, I get to share some big news with you. Today is one of those days. 🙌 Here is the curated list of awesome toolbox that I am using in my Tech Journey
+Now and then, I get to share some big news with you. Today is one of those days. 🙌 Here is the curated list of awesome toolbox that I am using in my Tech Journey.
 
 ## 01. Visual Studio Code
 - [anaconda-extension-pack](https://marketplace.visualstudio.com/items?itemName=ms-python.anaconda-extension-pack): Set of extensions that enhance the experience of Anaconda customers using Visual Studio Code
