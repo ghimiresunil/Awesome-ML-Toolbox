@@ -145,7 +145,6 @@ Now and then, I get to share some big news with you. Today is one of those days.
 ## 13. Graph DB
 - [Neo4j](https://neo4j.com/)
 - [Cypher](https://neo4j.com/docs/cypher-manual/current/introduction/)
-- [fasthtml](https://github.com/pcarbonn/fast_html)
     
 ## 14. MLops
 - [Docker](https://www.docker.com/)
@@ -160,6 +159,7 @@ Now and then, I get to share some big news with you. Today is one of those days.
 ## 15. Web Application 
 - [Gradio](https://www.gradio.app/)
 - [Streamlit](https://streamlit.io/)
+- [fasthtml](https://github.com/pcarbonn/fast_html)
 
 ## 16. Server
 - [Slurm](https://slurm.schedmd.com/documentation.html): Managing and scheduling Linux clusters.
