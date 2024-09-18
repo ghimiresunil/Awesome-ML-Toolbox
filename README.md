@@ -189,6 +189,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 
 ## 22. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
+- [Activemq](https://activemq.apache.org/): ActiveMQ is most commonly deployed as a standalone process
 - [apscheduler](https://pypi.org/project/APScheduler/): Advanced Python Scheduler (APScheduler) is a Python library that lets you schedule your Python code to be executed later, either just once or periodically
 - [arize-phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
 - [argparse](https://docs.python.org/3/library/argparse.html): Write user-friendly command-line interfaces  
