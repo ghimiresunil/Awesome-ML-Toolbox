@@ -179,7 +179,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Symlink](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/): Points to another file or folder on your computer, or a connected file system
 - [dotfiles](https://dotfiles.github.io/): Control the settings and preferences for applications and your system environment
 - [GNU Stow](https://www.gnu.org/software/stow/): Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. 
-
+- [vagrant](https://app.vagrantup.com/session):  Tool for building complete development environments
 ## 20. Obsidian 
 
 ## 21. Nvim
