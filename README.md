@@ -185,7 +185,8 @@ Here’s a curated list of the tools and resources that support my tech journey.
 ## 21. Nvim
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
-
+- [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
+- [which-key](https://github.com/folke/which-key.nvim)
 
 ## 22. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
