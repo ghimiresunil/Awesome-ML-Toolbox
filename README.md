@@ -189,6 +189,8 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [which-key](https://github.com/folke/which-key.nvim)
 - [telescope](https://github.com/nvim-telescope/telescope.nvim)
 - [alpha-nvim](https://github.com/goolord/alpha-nvim)
+- [Harpoon](https://github.com/ThePrimeagen/harpoon)
+
 
 ## 22. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
