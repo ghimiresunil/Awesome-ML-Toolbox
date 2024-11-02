@@ -222,6 +222,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [django](https://www.djangoproject.com/): High-level Python Web framework  
 - [djongo](https://github.com/nesdis/djongo): Django and MongoDB database connector   
 - [dlib](https://pypi.org/project/dlib/): A toolkit for making real world machine learning and data analysis applications in C++  
+- [doctest](https://docs.python.org/3/library/doctest.html): Test interactive Python examples
 - [docx2txt](https://pypi.org/project/docx2txt/): A pure python-based utility to extract text and images from docx files
 - [DPO Trainer](https://huggingface.co/docs/trl/main/en/dpo_trainer): TRL supports the DPO Trainer for training language models from preference data, as described in the paper Direct Preference Optimization
 - [DSPy](https://github.com/stanfordnlp/dspy): The framework for programming—not prompting—foundation models
