@@ -181,7 +181,6 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [dotfiles](https://dotfiles.github.io/): Control the settings and preferences for applications and your system environment
 - [GNU Stow](https://www.gnu.org/software/stow/): Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. 
 - [vagrant](https://app.vagrantup.com/session):  Tool for building complete development environments
-- [plenary](https://github.com/nvim-lua/plenary.nvim)
   
 ## 20. Obsidian 
 
@@ -193,7 +192,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [telescope](https://github.com/nvim-telescope/telescope.nvim)
 - [alpha-nvim](https://github.com/goolord/alpha-nvim)
 - [Harpoon](https://github.com/ThePrimeagen/harpoon)
-
+- [plenary](https://github.com/nvim-lua/plenary.nvim)
 
 ## 22. Python Libraries
 - [accelerate](https://github.com/huggingface/accelerate): A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
