@@ -252,7 +252,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [gensim](https://pypi.org/project/gensim/): Topic modelling, document indexing and similarity retrieval with large corpora.  
 - [gpt-index](https://gpt-index.readthedocs.io/en/latest/index.html): Central interface to connect your LLM’s with external data.
 - [gpt3-simple-primer](https://pypi.org/project/gpt3-simple-primer/) : Simple GPT-3 primer using openai.
-- [gspread](https://github.com/burnash/gspread): Python library to interact with Google Sheets  
+- [gspread](https://github.com/burnash/gspread): Python library to interact with Google Sheets.
 - [gunicorn](https://pypi.org/project/gunicorn/): Production web server for Flask, Django apps  
 - [h2oGPT](https://github.com/h2oai/h2ogpt): The world's best open source GPT
 - [hugging face](https://huggingface.co/): Build, train and deploy state of the art models powered by the reference open source in machine learning
