@@ -150,6 +150,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 ## 14. MLops
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
+- [Lens](https://k8slens.dev/)
 - [Flux](https://fluxcd.io/)
 - [Jenkins](https://www.jenkins.io/)
 - [AWS Lambda](https://aws.amazon.com/lambda/)
