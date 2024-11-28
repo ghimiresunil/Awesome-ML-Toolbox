@@ -152,6 +152,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Kubernetes](https://kubernetes.io/)
 - [Lens](https://k8slens.dev/)
 - [Flux](https://fluxcd.io/)
+- [Kubesphere](https://kubesphere.io/)
 - [Jenkins](https://www.jenkins.io/)
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 - [AWS EMR](https://aws.amazon.com/emr/)
