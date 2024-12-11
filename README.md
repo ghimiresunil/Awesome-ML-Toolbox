@@ -186,7 +186,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [GNU Stow](https://www.gnu.org/software/stow/): Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. 
 - [vagrant](https://app.vagrantup.com/session):  Tool for building complete development environments
 - [crontab](https://www.geeksforgeeks.org/crontab-in-linux-with-examples/): ‘Crontab’ Command on Linux works in the system’s background.
-
+- [wormhole](https://www.omgubuntu.co.uk/2017/06/wormhole-fast-secure-way-send-files-users-cli): Use Wormhole to Send Files from the Command Line (Fast & Secure)
 
 ## 20. Obsidian 
 
