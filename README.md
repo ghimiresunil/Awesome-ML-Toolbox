@@ -323,6 +323,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Pylint](https://github.com/pylint-dev/pylint): It's not just a linter that annoys you!
 - [Pipe](https://pypi.org/project/pipe/): Write clean python Code
 - [pydantic](https://docs.pydantic.dev/latest/): Most widely used data validation library for Python.
+- [PydanticAI](https://ai.pydantic.dev/): A Python Agent Framework designed to make it less painful to build production grade applications with Generative AI.
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/): PyMuPDF is a Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit, which is maintained and developed by Artifex Software, Inc
 - [pymongo](https://pypi.org/project/pymongo/): Python driver for MongoDB  
 - [pymysql](https://pypi.org/project/PyMySQL/): Pure Python MySQL Driver
