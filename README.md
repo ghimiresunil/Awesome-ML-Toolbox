@@ -311,6 +311,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [petals](https://github.com/bigscience-workshop/petals): Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [pillow](https://pypi.org/project/Pillow/): Python Imaging Library (Fork)  
 - [pipenv](https://pypi.org/project/pipenv/): Pipenv is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.  
+- [piper](https://github.com/rhasspy/piper): A fast, local neural text to speech system
 - [pipreqs](https://pypi.org/project/pipreqs/): Generate pip `requirements.txt` file based on imports of any project. Looking for maintainers to move this project forward.
 - [plotly](https://pypi.org/project/plotly/): An open-source, interactive graphing library for Python  
 - [poetry](https://python-poetry.org/): Python packaging and dependency management made easy
