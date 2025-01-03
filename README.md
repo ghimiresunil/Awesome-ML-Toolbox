@@ -153,6 +153,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Lens](https://k8slens.dev/)
 - [Flux](https://fluxcd.io/)
 - [Kubesphere](https://kubesphere.io/)
+- [Trivy](https://github.com/aquasecurity/trivy)
 - [Jenkins](https://www.jenkins.io/)
 - [rancher](https://www.rancher.com/)
 - [travis-yml](https://github.com/travis-ci/travis-yml)
