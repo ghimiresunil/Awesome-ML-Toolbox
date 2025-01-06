@@ -154,6 +154,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Flux](https://fluxcd.io/)
 - [Kubesphere](https://kubesphere.io/)
 - [Trivy](https://github.com/aquasecurity/trivy)
+- [Rook](https://rook.io/)
 - [Jenkins](https://www.jenkins.io/)
 - [rancher](https://www.rancher.com/)
 - [travis-yml](https://github.com/travis-ci/travis-yml)
