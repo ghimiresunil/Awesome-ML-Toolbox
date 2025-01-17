@@ -151,6 +151,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
 - [Lens](https://k8slens.dev/)
+- [k9s](https://k9scli.io/)
 - [Flux](https://fluxcd.io/)
 - [Kubesphere](https://kubesphere.io/)
 - [Trivy](https://github.com/aquasecurity/trivy)
