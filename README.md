@@ -160,7 +160,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Jenkins](https://www.jenkins.io/)
 - [rancher](https://www.rancher.com/)
 - [travis-yml](https://github.com/travis-ci/travis-yml)
-- [Bitnami Charts](https://github.com/bitnami/charts): 
+- [Bitnami Charts](https://github.com/bitnami/charts)
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 - [AWS EMR](https://aws.amazon.com/emr/)
 - [AWS SQS](https://aws.amazon.com/sqs/)
