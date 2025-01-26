@@ -326,6 +326,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
 - [pyaudio](https://pypi.org/project/PyAudio/): Cross-platform audio I/O with PortAudio
 - [pydash](https://pydash.readthedocs.io/en/latest/): The kitchen sink of Python utility libraries for doing "stuff" in a functional way	
+- [pyjwt](https://pyjwt.readthedocs.io/en/stable/): Python library which allows you to encode and decode JSON Web Tokens (JWT).
 - [Pylint](https://github.com/pylint-dev/pylint): It's not just a linter that annoys you!
 - [Pipe](https://pypi.org/project/pipe/): Write clean python Code
 - [pydantic](https://docs.pydantic.dev/latest/): Most widely used data validation library for Python.
