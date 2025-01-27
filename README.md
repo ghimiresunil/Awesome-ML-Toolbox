@@ -303,6 +303,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [openai-playground](https://platform.openai.com/playground): Allows users to explore and experiment with OpenAI's artificial intelligence models,
 - [OpenAPI](https://www.openapis.org/): OpenAPI Specification provides a formal standard for describing HTTP APIs.
 - [opencv](https://pypi.org/project/opencv-python/): Wrapper package for OpenCV python bindings.  
+- [OpenTelemetry](https://opentelemetry.io/): High-quality, ubiquitous, and portable telemetry to enable effective observability
 - [Optimum](https://huggingface.co/docs/optimum/index): 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
 - [pandasql](https://pypi.org/project/pandasql/): Allows you to query pandas DataFrames using SQL syntax
 - [pandera](https://pandera.readthedocs.io/en/stable/): A Statistical Data Testing Toolkit
