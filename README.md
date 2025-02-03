@@ -284,6 +284,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [lora](https://huggingface.co/blog/lora): LoRA for Efficient Stable Diffusion Fine-Tuning
 - [magic-wormhole](https://pypi.org/project/magic-wormhole/):This package provides a library and a command-line tool named wormhole, which makes it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another
 - [Manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos 
+- [marimo](https://marimo.io/): Open-source reactive notebook for Python — reproducible, git-friendly, executable as a script, and shareable as an app.
 - [matchzoo](https://matchzoo.readthedocs.io/en/master/): MatchZoo is a toolkit for text matching  
 - [matplotlib](https://pypi.org/project/matplotlib/): Matplotlib strives to produce publication quality 2D graphics  
 - [memory-profiler](https://pypi.org/project/memory-profiler/): A module for monitoring memory usage of a python program  
