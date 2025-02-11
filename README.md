@@ -274,7 +274,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [jupyterlab](https://pypi.org/project/jupyterlab/): An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture  
 - [kedro](https://github.com/kedro-org/kedro): A Python framework for creating reproducible, maintainable and modular data science code
 - [keras](https://pypi.org/project/Keras/): High-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.  
-- [Kokoro](https://huggingface.co/hexgrad/Kokoro-82M): 
+- [Kokoro](https://huggingface.co/hexgrad/Kokoro-82M): Kokoro is an open-weight TTS model with 82 million parameters
 - [langchain](https://langchain.readthedocs.io/en/latest/): provides a standard interface for chains, lots of integrations with other tools, and end-to-end chains for common applications
 - [LangSmith](https://docs.smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications.
 - [libffm](https://github.com/ycjuan/libffm): A Library for Field-aware Factorization Machines  
