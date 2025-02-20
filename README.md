@@ -196,7 +196,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [wormhole](https://www.omgubuntu.co.uk/2017/06/wormhole-fast-secure-way-send-files-users-cli): Use Wormhole to Send Files from the Command Line (Fast & Secure)
 
 ## 20. Obsidian 
-
+- Updating...........
 ## 21. Nvim
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
