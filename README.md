@@ -55,6 +55,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file): Create files anywhere in your workspace from the keyboard
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap): Take beautiful screenshots of your code
 - [JSON Crack](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode): Seamlessly visualize your JSON data instantly into graphs.
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer): Extension provides custom editors and previews for CSV files and Excel spreadsheets 
 
 ## 02. Vim / NeoVim
 - [nerdtree](https://github.com/scrooloose/nerdtree): Project and file navigation  
