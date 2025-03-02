@@ -326,6 +326,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [pipreqs](https://pypi.org/project/pipreqs/): Generate pip `requirements.txt` file based on imports of any project. Looking for maintainers to move this project forward.
 - [plotly](https://pypi.org/project/plotly/): An open-source, interactive graphing library for Python  
 - [poetry](https://python-poetry.org/): Python packaging and dependency management made easy
+- [posthog](https://github.com/PostHog/posthog): provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [pre-commit](https://pypi.org/project/pre-commit/): A framework for managing and maintaining multi-language pre-commit hooks.
 - [presidio](https://github.com/microsoft/presidio): Context aware, pluggable and customizable data protection and de-identification SDK for text and images
 - [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering, Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify
