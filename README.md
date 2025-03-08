@@ -417,4 +417,4 @@ Here’s a curated list of the tools and resources that support my tech journey.
 | Resource | Link| Progress |
 | --------- | ------ | --------- |
 | Version Control with Git | [🔗](https://www.udacity.com/enrollment/ud123) | ✅ |
-
+| So You Think You Know Git - FOSDEM 2024 | [🔗](https://www.udacity.com/enrollment/ud123) | ✅ |
