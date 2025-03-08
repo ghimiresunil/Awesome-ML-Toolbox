@@ -198,6 +198,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 
 ## 20. Obsidian 
 - Updating...........
+
 ## 21. Nvim
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
@@ -408,3 +409,12 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [xlearn](https://github.com/aksnzhy/xlearn): High performance, easy-to-use, and scalable machine learning package  
 - [xlrd](https://pypi.org/project/xlrd/): Extract data from Excel spreadsheets  
 - [yaml](https://pyyaml.org/wiki/PyYAMLDocumentation): YAML parser and emitter for Python
+
+## 23. Learning 
+
+### 23.1 Version Control
+
+| Resource | Link| Progress |
+| --------- | ------ | --------- |
+| Version Control with Git | [🔗](https://www.udacity.com/enrollment/ud123) | ✅ |
+
