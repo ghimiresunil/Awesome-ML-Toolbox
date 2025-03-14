@@ -418,3 +418,5 @@ Here’s a curated list of the tools and resources that support my tech journey.
 | --------- | ------ | --------- |
 | Version Control with Git | [🔗](https://www.udacity.com/enrollment/ud123) | ✅ |
 | So You Think You Know Git - FOSDEM 2024 | [🔗](https://www.udacity.com/enrollment/ud123) | ✅ |
+
+### 23.2 Linux
