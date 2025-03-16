@@ -420,3 +420,6 @@ Here’s a curated list of the tools and resources that support my tech journey.
 | So You Think You Know Git - FOSDEM 2024 | [🔗](https://www.udacity.com/enrollment/ud123) | ✅ |
 
 ### 23.2 Linux
+| Resource | Link| Progress |
+| --------- | ------ | --------- |
+| Missing Semester IAP 2020 | [🔗](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | ✅ |
