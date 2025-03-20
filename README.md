@@ -423,3 +423,8 @@ Here’s a curated list of the tools and resources that support my tech journey.
 | Resource | Link| Progress |
 | --------- | ------ | --------- |
 | Missing Semester IAP 2020 | [🔗](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | ✅ |
+
+### 23.3 Linux
+| Resource | Link| Progress |
+| --------- | ------ | --------- |
+| Essence of linear algebra | [🔗](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | ✅ |
