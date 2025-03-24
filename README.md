@@ -417,7 +417,13 @@ Here’s a curated list of the tools and resources that support my tech journey.
 | Resource | Link| Progress |
 | --------- | ------ | --------- |
 | Version Control with Git | [🔗](https://www.udacity.com/enrollment/ud123) | ✅ |
-| So You Think You Know Git - FOSDEM 2024 | [🔗](https://www.udacity.com/enrollment/ud123) | ✅ |
+| So You Think You Know Git - FOSDEM 2024 | [🔗](https://www.youtube.com/watch?v=aolI_Rz0ZqY) | ✅ |
+
+
+### 23.2 Design Pattern
+| Resource | Link| Progress |
+| --------- | ------ | --------- |
+| Master Python Design Patterns: Build Flexible & Robust Code | [🔗](https://www.youtube.com/watch?v=mWaZD8uztT8) | 🔄 |
 
 
 ### 23.2 Design Pattern
