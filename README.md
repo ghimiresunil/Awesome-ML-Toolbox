@@ -419,26 +419,17 @@ Here’s a curated list of the tools and resources that support my tech journey.
 | Version Control with Git | [🔗](https://www.udacity.com/enrollment/ud123) | ✅ |
 | So You Think You Know Git - FOSDEM 2024 | [🔗](https://www.youtube.com/watch?v=aolI_Rz0ZqY) | ✅ |
 
-
 ### 23.2 Design Pattern
 | Resource | Link| Progress |
 | --------- | ------ | --------- |
 | Master Python Design Patterns: Build Flexible & Robust Code | [🔗](https://www.youtube.com/watch?v=mWaZD8uztT8) | 🔄 |
 
-
-### 23.2 Design Pattern
-| Resource | Link| Progress |
-| --------- | ------ | --------- |
-| Master Python Design Patterns: Build Flexible & Robust Code | [🔗](https://www.youtube.com/watch?v=mWaZD8uztT8) | 🔄 |
-
-### 23.2 Linux
+### 23.3 Linux
 | Resource | Link| Progress |
 | --------- | ------ | --------- |
 | Missing Semester IAP 2020 | [🔗](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | ✅ |
 
-### 23.3 Math
+### 23.4 Math
 | Resource | Link| Progress |
 | --------- | ------ | --------- |
 | Essence of linear algebra | [🔗](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | ✅ |
-
-
