@@ -395,7 +395,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Trainer](https://huggingface.co/docs/transformers/main_classes/trainer): Provides an API for feature-complete training in PyTorch for most standard use cases
 - [Trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O
 - [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
-- [uv](https://github.com/astral-sh/uv): An extremely fast Python package and project manager, written in Rust.
+- [UV](https://github.com/astral-sh/uv): An extremely fast Python package and project manager, written in Rust.
 - [vmap](https://jax.readthedocs.io/en/latest/_autosummary/jax.vmap.html): vmap is the vectorizing map; vmap(func) returns a new function that maps func over some dimension of the inputs.
 - [vectorhub](https://github.com/RelevanceAI/vectorhub): Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
 - [Vertex AI](https://cloud.google.com/vertex-ai): Train and deploy ML models
