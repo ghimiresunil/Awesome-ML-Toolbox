@@ -227,6 +227,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [collections](https://docs.python.org/3/library/collections.html): Specialized container datatypes  
 - [conda](https://docs.conda.io/en/latest/): Package, dependency and environment management  
 - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html):Launching parallel tasks
+- [coverage](https://coverage.readthedocs.io/en/7.9.1/): Tool for measuring code coverage of Python programs 
 - [chime](https://github.com/MaxHalford/chime): Python sound notifications made easy.
 - [dabl](https://amueller.github.io/dabl/dev/): Learning comes from comparing finished products and picking the better one
 - [dask](https://www.dask.org/): Scale the Python tools you love
