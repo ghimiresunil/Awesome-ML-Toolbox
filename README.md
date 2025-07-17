@@ -324,6 +324,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [nlopt](https://pypi.org/project/nlopt/): Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization
 - [nltk](https://pypi.org/project/nltk/): Natural Language Toolkit
 - [netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models
+- [nox](https://nox.thea.codes/en/stable/): Command-line tool that automates testing in multiple Python environments, similar to tox. 
 - [nats](https://nats.io/): Allows such data exchange, segmented in the form of messages. We c
 - [numpy](https://pypi.org/project/numpy/): NumPy is the fundamental package for array computing with Python.
 - [nvitop](https://github.com/XuehaiPan/nvitop/tree/main): An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
