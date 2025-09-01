@@ -367,6 +367,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [pymysql](https://pypi.org/project/PyMySQL/): Pure Python MySQL Driver
 - [pyod](https://pyod.readthedocs.io/en/latest/): PyOD is the most comprehensive and scalable Python library for detecting outlying objects in multivariate data.
 - [pyodbc](https://pypi.org/project/pyodbc/): pyodbc is an open source Python module that makes accessing ODBC databases simple
+- [pyodide](https://pyodide.org/en/stable/): Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
 - [pypdf2](https://pypi.org/project/PyPDF2/): PDF toolkit
 - [pyppeteer](https://github.com/pyppeteer/pyppeteer): Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [pyspark](https://pypi.org/project/pyspark/): Apache Spark Python API
