@@ -66,8 +66,9 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [python-mode](https://github.com/python-mode/python-mode): Python support in vim
 - [vim-fzf](https://github.com/junegunn/fzf.vim): fuzzy finder
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): Fast, as-you-type, fuzzy-search code completion engine
-- [ctrl-space](https://github.com/vim-ctrlspace/vim-ctrlspace): tabs,buffers,files management and fast fuzzy searching
 - [syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking plugin
+- [ctrl-space](https://github.com/vim-ctrlspace/vim-ctrlspace): tabs,buffers,files management and fast fuzzy searching
+
 
 ## 03. Python Environment
 
