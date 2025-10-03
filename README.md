@@ -387,6 +387,7 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [Ray](https://www.ray.io/): Effortlessly scale your most complex workloads
 - [re](https://docs.python.org/3/library/re.html): Regular expression matching operations
 - [requests](https://pypi.org/project/requests/): HTTP library for Python
+- [scalene](https://github.com/plasma-umass/scalene): A high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [schedule](https://pypi.org/project/schedule/): Python job scheduling for humans. Run Python functions (or any other callable) periodically using a friendly syntax
 - [scikit-image](https://scikit-image.org/): Collection of algorithms for image processing
 - [scikit-learn](https://scikit-learn.org/stable/): Tools for data mining and data analysis and machine learning in Python
