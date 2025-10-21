@@ -465,3 +465,9 @@ Here’s a curated list of the tools and resources that support my tech journey.
 | Resource                  | Link                                                                           | Progress |
 | ------------------------- | ------------------------------------------------------------------------------ | -------- |
 | Essence of linear algebra | [🔗](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | ✅       |
+
+### 23.5 Information Retrieval / RAG
+
+| Resource                  | Link                                                                           | Progress |
+| ------------------------- | ------------------------------------------------------------------------------ | -------- |
+| Article: Understanding the BM25 full text search algorithm | [🔗](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/) | ✅       |
