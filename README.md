@@ -439,34 +439,46 @@ Here’s a curated list of the tools and resources that support my tech journey.
 - [xlrd](https://pypi.org/project/xlrd/): Extract data from Excel spreadsheets
 - [yaml](https://pyyaml.org/wiki/PyYAMLDocumentation): YAML parser and emitter for Python
 
-## 23. Learning
+## 23. Evals
+- [athina-evals](https://github.com/athina-ai/athina-evals): Python SDK for running evaluations on LLM generated responses
+- [deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
+- [geval](https://github.com/nlpyang/geval): Code for paper "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment"
+- [openevals](https://github.com/langchain-ai/openevals): Readymade evaluators for your LLM apps
+- [promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+- [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai): A framework for large language model evaluations
+- [evaluate](https://github.com/huggingface/evaluate): A library for easily evaluating machine learning models and datasets
+- [torchmetrics](https://github.com/Lightning-AI/torchmetrics): Machine learning metrics for distributed, scalable PyTorch applications.
+- [torcheval](https://github.com/meta-pytorch/torcheval): A library that contains a rich collection of performant PyTorch model metrics, a simple interface to create new metrics, a toolkit to facilitate metric computation in distributed training and tools for PyTorch model evaluations.
+- [mir_eval](https://github.com/mir-evaluation/mir_eval): Evaluation functions for music/audio information retrieval/signal processing algorithms.
 
-### 23.1 Version Control
+## 24. Learning
+
+### 24.1 Version Control
 
 | Resource                                | Link                                              | Progress |
 | --------------------------------------- | ------------------------------------------------- | -------- |
 | Version Control with Git                | [🔗](https://www.udacity.com/enrollment/ud123)    | ✅       |
 | So You Think You Know Git - FOSDEM 2024 | [🔗](https://www.youtube.com/watch?v=aolI_Rz0ZqY) | ✅       |
 
-### 23.2 Design Pattern
+### 24.2 Design Pattern
 
 | Resource                                                    | Link                                              | Progress |
 | ----------------------------------------------------------- | ------------------------------------------------- | -------- |
 | Master Python Design Patterns: Build Flexible & Robust Code | [🔗](https://www.youtube.com/watch?v=mWaZD8uztT8) | 🔄       |
 
-### 23.3 Linux
+### 25.3 Linux
 
 | Resource                  | Link                                                                           | Progress |
 | ------------------------- | ------------------------------------------------------------------------------ | -------- |
 | Missing Semester IAP 2020 | [🔗](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | ✅       |
 
-### 23.4 Math
+### 24.4 Math
 
 | Resource                  | Link                                                                           | Progress |
 | ------------------------- | ------------------------------------------------------------------------------ | -------- |
 | Essence of linear algebra | [🔗](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | ✅       |
 
-### 23.5 Information Retrieval / RAG
+### 24.5 Information Retrieval / RAG
 
 | Resource                  | Link                                                                           | Progress |
 | ------------------------- | ------------------------------------------------------------------------------ | -------- |
